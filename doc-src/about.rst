@@ -4,8 +4,8 @@ About Me
 
 I am a developer/hacker that has very many interests, both in life and 
 technology. I love playing around with technology I've had experience with 
-system administration, networking and know enough to shoot myself in the foot
- in very creative ways.
+system administration, networking and know enough to shoot myself in the foot 
+in very creative ways.
 
 As far as languages go, I have tried many, have worked professionally with a 
 range of languages, including C#, Python and some ruby and have had to debug 
@@ -27,9 +27,9 @@ easier it is to see problems and solutions in different angles.
 
 I have had a few hobbies through the years, the more recent ones are:
 
-    * Homebrewing
-    * Cheese making
-    * Charcuterie
+* Homebrewing
+* Cheese making
+* Charcuterie
 
 
 ###################
