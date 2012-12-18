@@ -15,7 +15,8 @@ serendipitous.
 
 .. note::
     This is a preliminary experiment of writing a resume with sphinx, as such
-    it is in flux and under development until this note disappears.
+    it is in flux and under development until this note disappears. *It will
+    probably never disappear.*
 
 
 ########

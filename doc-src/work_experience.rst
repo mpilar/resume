@@ -24,10 +24,13 @@ DevOps/Senior Web Developer (2008-present)
 ######################
 Insight Communications
 ######################
--------------------------
-Web Developer (2007-2008)
--------------------------
-
+----------------------------
+IT/Web Developer (2007-2008)
+----------------------------
+* Developed information service (411) database application using django and 
+  solr
+* Part of team that maintained 150+ workstations and servers for incoming and
+  outgoing campaigns
 
 ##########
 NeXellence
@@ -35,13 +38,20 @@ NeXellence
 --------------------------------
 Junior Web Developer (2006-2007)
 --------------------------------
-
+* Wrote screen scraping software for a legacy application in order to adapt it
+  for web use.
 
 ######
 Vcom3D
 ######
---------------------------------
-System Administrator (2003-2006)
---------------------------------
-
-
+-------------------------------------------
+QA/System Administration Intern (2003-2006)
+-------------------------------------------
+* Maintained web and local servers (3 total), including web, file storage and 
+  version control servers.
+* Maintained fleet of testing computers and cloning environment
+* Performed final QA on 3D client application and installer
+* Configured and maintained VPS based (Linode) web and email server
+  
+  - Immediately regretted trying to set up a spam resistant email server on 64MB
+    of RAM
