@@ -122,6 +122,39 @@ for certain jobs.</p>
 My experience with it is limited but it&#8217;s power is obvious for large
 deployments.</p>
 </div>
+<div class="section" id="munin-monit">
+<h2>munin/monit<a class="headerlink" href="#munin-monit" title="Permalink to this headline">¶</a></h2>
+<p>I have used munin and monit to monitor and script some self-healing into hosts.</p>
+</div>
+<div class="section" id="statsd">
+<h2>StatsD<a class="headerlink" href="#statsd" title="Permalink to this headline">¶</a></h2>
+<p>While it has been replaced with Cloudwatch, StatsD has been a go-to tool for
+metrics collection.</p>
+</div>
+<div class="section" id="varnish">
+<h2>Varnish<a class="headerlink" href="#varnish" title="Permalink to this headline">¶</a></h2>
+<p>Varnish is for my go-to tool for caching full web pages. I&#8217;ve spent time
+tweaking configurations and adapting Varnish to cache pages not designed
+to be cached.</p>
+</div>
+<div class="section" id="traffic-server">
+<h2>Traffic Server<a class="headerlink" href="#traffic-server" title="Permalink to this headline">¶</a></h2>
+<p>When a caching layer does not need to have as many customizations of the
+request/response as can be done with Varnish I prefer using Apache Traffic
+Server which is an extremely powerful caching server with a tiered
+architecture.</p>
+</div>
+<div class="section" id="haproxy">
+<h2>haproxy<a class="headerlink" href="#haproxy" title="Permalink to this headline">¶</a></h2>
+<p>While there are other load balancing options, I find that haproxy has the
+most flexible balancing algorithms.</p>
+</div>
+<div class="section" id="spread-wackamole">
+<h2>spread/wackamole<a class="headerlink" href="#spread-wackamole" title="Permalink to this headline">¶</a></h2>
+<p>This project is outdated but it&#8217;s still useful to run N master clusters of
+load balancers when necessary (it allows haproxy to scale horizontally by
+sharing IPs among a cluster).</p>
+</div>
 </div>
 
 
@@ -146,6 +179,12 @@ deployments.</p>
 <li><a class="reference internal" href="#git">Git</a></li>
 <li><a class="reference internal" href="#aws">AWS</a></li>
 <li><a class="reference internal" href="#asgard">Asgard</a></li>
+<li><a class="reference internal" href="#munin-monit">munin/monit</a></li>
+<li><a class="reference internal" href="#statsd">StatsD</a></li>
+<li><a class="reference internal" href="#varnish">Varnish</a></li>
+<li><a class="reference internal" href="#traffic-server">Traffic Server</a></li>
+<li><a class="reference internal" href="#haproxy">haproxy</a></li>
+<li><a class="reference internal" href="#spread-wackamole">spread/wackamole</a></li>
 </ul>
 </li>
 </ul>
