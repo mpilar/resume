@@ -92,3 +92,48 @@ Asgard
 I find Netflix' Asgard to be a very powerful tool to manage deployments in AWS.
 My experience with it is limited but it's power is obvious for large 
 deployments.
+
+###########
+munin/monit
+###########
+
+I have used munin and monit to monitor and script some self-healing into hosts.
+
+######
+StatsD
+######
+
+While it has been replaced with Cloudwatch, StatsD has been a go-to tool for
+metrics collection.
+
+#######
+Varnish
+#######
+
+Varnish is for my go-to tool for caching full web pages. I've spent time 
+tweaking configurations and adapting Varnish to cache pages not designed
+to be cached.
+
+##############
+Traffic Server
+##############
+
+When a caching layer does not need to have as many customizations of the 
+request/response as can be done with Varnish I prefer using Apache Traffic
+Server which is an extremely powerful caching server with a tiered 
+architecture.
+
+#######
+haproxy
+#######
+
+While there are other load balancing options, I find that haproxy has the
+most flexible balancing algorithms.
+
+################
+spread/wackamole
+################
+
+This project is outdated but it's still useful to run N master clusters of
+load balancers when necessary (it allows haproxy to scale horizontally by
+sharing IPs among a cluster).
