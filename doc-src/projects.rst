@@ -20,7 +20,7 @@ I have only one public project, a port of `Gigya <http://www.gigya.com>`_'s
 SDK to python called 
 `gigya-server-lib <http://pypi.python.org/pypi/gigya-server-lib/0.1.3>`_. 
 The library is not entirely pythonic to maintain it closer in usage to the 
-original.
+original. It has been abandoned since Gigya developed their own.
 
 As an aside, while working on this library I discovered a security bug that 
 was disclosed to Gigya.
@@ -31,7 +31,6 @@ Assorted pull requests
 ----------------------
 
 I've made small contributions to the following projects:
-
 * Mongo C# Driver:
     - `CSHARP-204 <https://jira.mongodb.org/browse/CSHARP-204>`_: found, 
       diagnosed and fixed a concurrency issue in the mongodb driver for C#
@@ -48,12 +47,19 @@ I've made small contributions to the following projects:
 Private
 #######
 
-* Wrote a simple log aggregator and analytics service in python to monitor, in 
-  real time, the most popular news articles on elnuevodia.com and 
-  primerahora.com
+* Architected new version of our Newspaper CMS for availability and scalability using 
+  .NET MVC 4.0 and .NET Web API 2.0, implementing an MQ based job system for better
+  backend user satisfaction. The FrontEnd was architected to use the subset of ESI 
+  available in varnish for a better user experience
+* Led switch to AWS for various products, worked closely with developers to
+  help make the transition smoother and diagnose any problems
+* Created guidelines with networking and datacenter operations teams to influence 
+  their architectural choices
+* Wrote a real time log aggregator and analytics service in python to monitor the
+  most popular news articles on elnuevodia.com and primerahora.com
 * Configured varnish to do things nobody should ever do on varnish to make up
   for a third party application's lack of caching
 * Managed the cloud infrastructure initiative for GFR Media using AWS and 
-  Rackspace Cloud
-* Architected solutions for web deployments using AWS cloud tools
+  Rackspace Cloud.
+* Architected solutions for web deployments using various AWS services
 
