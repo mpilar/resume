@@ -27,9 +27,8 @@ easier it is to see problems and solutions in different angles.
 
 I have had a few hobbies through the years, the more recent ones are:
 
-* Homebrewing
-* Cheese making
-* Charcuterie
+* 3D priting
+* Sous Vide Cooking
 
 
 ###################
