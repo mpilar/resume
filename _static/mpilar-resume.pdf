@@ -1,0 +1,4138 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 7 0 R /F4 8 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /A << /S /URI /Type /Action /URI (http://mpilar.github.io/resume) >> /Border [ 0 0 0 ] /Rect [ 175.0757 727.0394 195.0857 739.0394 ] /Subtype /Link /Type /Annot >>
+endobj
+5 0 obj
+<< /A << /S /URI /Type /Action /URI (http://resume.readthedocs.org) >> /Border [ 0 0 0 ] /Rect [ 217.8557 709.0394 258.6757 721.0394 ] /Subtype /Link /Type /Annot >>
+endobj
+6 0 obj
+<< /A << /S /URI /Type /Action /URI (http://wraithan.readthedocs.org) >> /Border [ 0 0 0 ] /Rect [ 278.1357 709.0394 325.6157 721.0394 ] /Subtype /Link /Type /Annot >>
+endobj
+7 0 obj
+<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+8 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+9 0 obj
+<< /Annots [ 4 0 R 5 0 R 6 0 R ] /Contents 63 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 62 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+10 0 obj
+<< /Contents 64 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 62 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+11 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.gigya.com) >> /Border [ 0 0 0 ] /Rect [ 226.8308 215.4394 252.9508 227.4394 ] /Subtype /Link /Type /Annot >>
+endobj
+12 0 obj
+<< /A << /S /URI /Type /Action /URI (http://pypi.python.org/pypi/gigya-server-lib/0.1.3) >> /Border [ 0 0 0 ] /Rect [ 365.6203 215.4394 433.9603 227.4394 ] /Subtype /Link /Type /Annot >>
+endobj
+13 0 obj
+<< /A << /S /URI /Type /Action /URI (https://jira.mongodb.org/browse/CSHARP-204) >> /Border [ 0 0 0 ] /Rect [ 106.0157 93.23937 167.6957 105.2394 ] /Subtype /Link /Type /Annot >>
+endobj
+14 0 obj
+<< /A << /S /URI /Type /Action /URI (https://jira.mongodb.org/browse/CSHARP-200) >> /Border [ 0 0 0 ] /Rect [ 106.0157 75.23937 167.6957 87.23937 ] /Subtype /Link /Type /Annot >>
+endobj
+15 0 obj
+<< /A << /S /URI /Type /Action /URI (https://github.com/angieslist/AL-Redis/pull/5) >> /Border [ 0 0 0 ] /Rect [ 111.268 60.23937 177.6846 72.23937 ] /Subtype /Link /Type /Annot >>
+endobj
+16 0 obj
+<< /Annots [ 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R ] /Contents 65 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 62 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+17 0 obj
+<< /A << /S /URI /Type /Action /URI (http://mumble.sourceforge.net/) >> /Border [ 0 0 0 ] /Rect [ 63.01575 784.0394 98.57575 796.0394 ] /Subtype /Link /Type /Annot >>
+endobj
+18 0 obj
+<< /Annots [ 17 0 R ] /Contents 66 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 62 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+19 0 obj
+<< /Contents 67 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 62 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+20 0 obj
+<< /Outlines 22 0 R /PageLabels 68 0 R /PageMode /UseNone /Pages 62 0 R /Type /Catalog >>
+endobj
+21 0 obj
+<< /Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x10ffa3518> /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title () >>
+endobj
+22 0 obj
+<< /Count 51 /First 23 0 R /Last 23 0 R /Type /Outlines >>
+endobj
+23 0 obj
+<< /Count 38 /Dest [ 9 0 R /XYZ 40.01575 799.0394 0 ] /First 24 0 R /Last 24 0 R /Parent 22 0 R /Title (Miguel Pilar's Resume) >>
+endobj
+24 0 obj
+<< /Count 37 /Dest [ 9 0 R /XYZ 40.01575 606.2394 0 ] /First 25 0 R /Last 53 0 R /Parent 23 0 R /Title (Contents) >>
+endobj
+25 0 obj
+<< /Count 2 /Dest [ 9 0 R /XYZ 40.01575 571.0394 0 ] /First 26 0 R /Last 27 0 R /Next 28 0 R /Parent 24 0 R 
+  /Title (About Me) >>
+endobj
+26 0 obj
+<< /Dest [ 9 0 R /XYZ 40.01575 424.2394 0 ] /Next 27 0 R /Parent 25 0 R /Title (Personality) >>
+endobj
+27 0 obj
+<< /Dest [ 9 0 R /XYZ 40.01575 297.8394 0 ] /Parent 25 0 R /Prev 26 0 R /Title (Irrational Thoughts) >>
+endobj
+28 0 obj
+<< /Count 19 /Dest [ 10 0 R /XYZ 40.01575 799.0394 0 ] /First 29 0 R /Last 47 0 R /Next 48 0 R /Parent 24 0 R 
+  /Prev 25 0 R /Title (Technical Skills) >>
+endobj
+29 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 700.2394 0 ] /Next 30 0 R /Parent 28 0 R /Title (C#) >>
+endobj
+30 0 obj
+<< /Count 5 /Dest [ 10 0 R /XYZ 40.01575 639.8394 0 ] /First 31 0 R /Last 35 0 R /Next 36 0 R /Parent 28 0 R 
+  /Prev 29 0 R /Title (Python) >>
+endobj
+31 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 579.4394 0 ] /Next 32 0 R /Parent 30 0 R /Title (requests) >>
+endobj
+32 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 520.2394 0 ] /Next 33 0 R /Parent 30 0 R /Prev 31 0 R /Title (Django) >>
+endobj
+33 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 461.0394 0 ] /Next 34 0 R /Parent 30 0 R /Prev 32 0 R /Title (Flask) >>
+endobj
+34 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 389.8394 0 ] /Next 35 0 R /Parent 30 0 R /Prev 33 0 R /Title (Falcon) >>
+endobj
+35 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 330.6394 0 ] /Parent 30 0 R /Prev 34 0 R /Title (Celery) >>
+endobj
+36 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 283.4394 0 ] /Next 37 0 R /Parent 28 0 R /Prev 30 0 R /Title (Redis) >>
+endobj
+37 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 235.0394 0 ] /Next 38 0 R /Parent 28 0 R /Prev 36 0 R /Title (PostgreSQL) >>
+endobj
+38 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 174.6394 0 ] /Next 39 0 R /Parent 28 0 R /Prev 37 0 R /Title (jQuery) >>
+endobj
+39 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 114.2394 0 ] /Next 40 0 R /Parent 28 0 R /Prev 38 0 R /Title (Git) >>
+endobj
+40 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 799.0394 0 ] /Next 41 0 R /Parent 28 0 R /Prev 39 0 R /Title (AWS) >>
+endobj
+41 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 726.6394 0 ] /Next 42 0 R /Parent 28 0 R /Prev 40 0 R /Title (munin/monit) >>
+endobj
+42 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 678.2394 0 ] /Next 43 0 R /Parent 28 0 R /Prev 41 0 R /Title (StatsD) >>
+endobj
+43 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 629.8394 0 ] /Next 44 0 R /Parent 28 0 R /Prev 42 0 R /Title (Grafana) >>
+endobj
+44 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 581.4394 0 ] /Next 45 0 R /Parent 28 0 R /Prev 43 0 R /Title (Varnish) >>
+endobj
+45 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 521.0394 0 ] /Next 46 0 R /Parent 28 0 R /Prev 44 0 R /Title (Traffic Server) >>
+endobj
+46 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 460.6394 0 ] /Next 47 0 R /Parent 28 0 R /Prev 45 0 R /Title (haproxy) >>
+endobj
+47 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 412.2394 0 ] /Parent 28 0 R /Prev 46 0 R /Title (spread/wackamole) >>
+endobj
+48 0 obj
+<< /Count 4 /Dest [ 16 0 R /XYZ 40.01575 351.8394 0 ] /First 49 0 R /Last 52 0 R /Next 53 0 R /Parent 24 0 R 
+  /Prev 28 0 R /Title (Projects) >>
+endobj
+49 0 obj
+<< /Count 2 /Dest [ 16 0 R /XYZ 40.01575 277.0394 0 ] /First 50 0 R /Last 51 0 R /Next 52 0 R /Parent 48 0 R 
+  /Title (Public) >>
+endobj
+50 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 246.6394 0 ] /Next 51 0 R /Parent 49 0 R /Title (gigya-server-lib) >>
+endobj
+51 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 169.4394 0 ] /Parent 49 0 R /Prev 50 0 R /Title (Assorted pull requests) >>
+endobj
+52 0 obj
+<< /Dest [ 18 0 R /XYZ 40.01575 759.0394 0 ] /Parent 48 0 R /Prev 49 0 R /Title (Private) >>
+endobj
+53 0 obj
+<< /Count 8 /Dest [ 19 0 R /XYZ 40.01575 799.0394 0 ] /First 54 0 R /Last 60 0 R /Parent 24 0 R /Prev 48 0 R 
+  /Title (Work Experience) >>
+endobj
+54 0 obj
+<< /Count 1 /Dest [ 19 0 R /XYZ 40.01575 766.2394 0 ] /First 55 0 R /Last 55 0 R /Next 56 0 R /Parent 53 0 R 
+  /Title (GFR Media) >>
+endobj
+55 0 obj
+<< /Dest [ 19 0 R /XYZ 40.01575 735.8394 0 ] /Parent 54 0 R /Title (DevOps/Senior Web Developer \(2008-present\)) >>
+endobj
+56 0 obj
+<< /Count 1 /Dest [ 19 0 R /XYZ 40.01575 568.6394 0 ] /First 57 0 R /Last 57 0 R /Next 58 0 R /Parent 53 0 R 
+  /Prev 54 0 R /Title (Insight Communications) >>
+endobj
+57 0 obj
+<< /Dest [ 19 0 R /XYZ 40.01575 538.2394 0 ] /Parent 56 0 R /Title (IT/Web Developer \(2007-2008\)) >>
+endobj
+58 0 obj
+<< /Count 1 /Dest [ 19 0 R /XYZ 40.01575 455.0394 0 ] /First 59 0 R /Last 59 0 R /Next 60 0 R /Parent 53 0 R 
+  /Prev 56 0 R /Title (NeXellence) >>
+endobj
+59 0 obj
+<< /Dest [ 19 0 R /XYZ 40.01575 424.6394 0 ] /Parent 58 0 R /Title (Junior Web Developer \(2006-2007\)) >>
+endobj
+60 0 obj
+<< /Count 1 /Dest [ 19 0 R /XYZ 40.01575 371.4394 0 ] /First 61 0 R /Last 61 0 R /Parent 53 0 R /Prev 58 0 R 
+  /Title (Vcom3D) >>
+endobj
+61 0 obj
+<< /Dest [ 19 0 R /XYZ 40.01575 341.0394 0 ] /Parent 60 0 R /Title (QA/System Administration Intern \(2003-2006\)) >>
+endobj
+62 0 obj
+<< /Count 5 /Kids [ 9 0 R 10 0 R 16 0 R 18 0 R 19 0 R ] /Type /Pages >>
+endobj
+63 0 obj
+<< /Length 5697 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Miguel Pilar's Resume) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 745.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.90294 Tw (I am Miguel Pilar, a Web Developing code monkey turned "DevOps/Inframagical Architect". This is my resume) Tj T* 0 Tw (written in ReStructuredText and formatted using sphinx, and not even using a custom sphinx theme.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 727.0394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (To see it compiled please see ) Tj 0 0 .501961 rg (here) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 709.0394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The format of this resume is inspired by ) Tj 0 0 .501961 rg (rdegges' ) Tj 0 0 0 rg (and ) Tj 0 0 .501961 rg (wraithan's ) Tj 0 0 0 rg (but using sphinx for a resume seems serendipitous.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 697.0394 cm
+Q
+q
+1 0 0 1 40.01575 628.2394 cm
+.933333 .933333 .933333 rg
+n 0 68.8 515.2441 -68.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 50.8 Tm  T* ET
+q
+1 0 0 1 8 44 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F3 14 Tf 16.8 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 8 cm
+q
+BT 1 0 0 1 0 14 Tm .147705 Tw 12 TL /F1 10 Tf 0 0 0 rg (This is a preliminary experiment of writing a resume with sphinx, as such it is in flux and under development until) Tj T* 0 Tw (this note disappears. ) Tj /F4 10 Tf (It will probably never disappear.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 68.8 m 515.2441 68.8 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 68.8 l S
+n 515.2441 0 m 515.2441 68.8 l S
+Q
+Q
+q
+1 0 0 1 40.01575 622.2394 cm
+Q
+q
+1 0 0 1 40.01575 587.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 554.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (About Me) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 512.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.223005 Tw (I am a developer/hacker that has very many interests, both in life and technology. I love playing around with) Tj T* 0 Tw .332131 Tw (technology I've had experience with system administration, networking and know enough to shoot myself in the foot) Tj T* 0 Tw (in very creative ways.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 470.2394 cm
+q
+0 0 0 RG
+n 95.1098 28.5 m 107.2172 28.5 l S
+BT 1 0 0 1 0 26 Tm .98745 Tw 12 TL /F1 10 Tf 0 0 0 rg (As far as languages ) Tj 0 0 0 rg (go ) Tj 0 0 0 rg (are concerned, I have tried many, have worked professionally with a range of languages,) Tj T* 0 Tw .387205 Tw (including C#, Python, go and some ruby and have had to debug in few other languages. My favorite language is by) Tj T* 0 Tw (far python.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 440.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .858087 Tw (For better or worse I am also a typical PC gamer, playing all sorts of game, sucking at a lot of them too but most) Tj T* 0 Tw (importantly enjoying myself.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 409.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Personality) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 367.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .267671 Tw (By nature I try to learn many things even if it is to know just the basics, to that end I've explored things ranging from) Tj T* 0 Tw .5821 Tw (blacksmithing to basic home repair to welding. I feel that the more breadth of knowledge one has the easier it is to) Tj T* 0 Tw (see problems and solutions in different angles.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 349.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I have had a few hobbies through the years, the more recent ones are:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 343.8394 cm
+Q
+q
+1 0 0 1 40.01575 343.8394 cm
+Q
+q
+1 0 0 1 40.01575 331.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3D priting) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 325.8394 cm
+Q
+q
+1 0 0 1 40.01575 313.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sous Vide Cooking) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 313.8394 cm
+Q
+q
+1 0 0 1 40.01575 283.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Irrational Thoughts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 229.4394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .701794 Tw (If I have a constant recurring irrational thought is that I am uncomfortable with PHP, unlike other languages I have) Tj T* 0 Tw .844004 Tw (seen I have been unable to find beauty in a PHP program. Perhaps I have not been introduced to good PHP, but) Tj T* 0 Tw 1.738205 Tw (even the language design itself seems inelegant to me. This is not to mean I don't dive into PHP programs to) Tj T* 0 Tw (diagnose them or see how they tick, but that it is well outside my comfort zone.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 229.4394 cm
+Q
+ 
+endstream
+endobj
+64 0 obj
+<< /Length 6671 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 782.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Technical Skills) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 752.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .898637 Tw (This is a list of my stronger technical skills. Through my years I've made many different small projects with varied) Tj T* 0 Tw (purposes. Among them:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 746.2394 cm
+Q
+q
+1 0 0 1 40.01575 746.2394 cm
+Q
+q
+1 0 0 1 40.01575 734.2394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (6+ years experience with Python and C#) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 728.2394 cm
+Q
+q
+1 0 0 1 40.01575 716.2394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Have played with many others like Go, Ruby and even AutoIT) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 716.2394 cm
+Q
+q
+1 0 0 1 40.01575 685.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (C#) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 655.8394 cm
+q
+BT 1 0 0 1 0 14 Tm .851894 Tw 12 TL /F1 10 Tf 0 0 0 rg (When not programming in Python for work I've had to ) Tj /F4 10 Tf (maintain ) Tj /F1 10 Tf (C# applications be them web, console or desktop.) Tj T* 0 Tw (I've had some experience working with ASP.NET MVC.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 625.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 595.4394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.036506 Tw (I've spent the last few years programming in Python professionaly and otherwise. Most of my experience with) Tj T* 0 Tw (Python is centered around writing web applications and management scripts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 566.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (requests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 536.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .498874 Tw (I will be frank, I don't actually remember how to use urllib for actual web requests \(still use it to parse urls, etc\) and) Tj T* 0 Tw (would have to spend a few minutes figuring things out again, requests is just so perfect.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 507.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (Django) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 477.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .000215 Tw (For most web projects that interact with databases I enjoy using django. I feel The django app ecosystem is powerful) Tj T* 0 Tw (and make it very easy to create a complex project quickly and efficiently.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 447.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (Flask) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 405.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .373005 Tw (For smaller web projects and prototypes I turn to Flask, nimble enough to create small projects quickly but powerful) Tj T* 0 Tw 2.671894 Tw (enough to expand them into larger projects. Specially true of projects that don't need an ORM to be tightly) Tj T* 0 Tw (integrated.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 376.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (Falcon) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 346.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.021417 Tw (A great framework for middleware and/or pure APIs, it's speedy and very useful for APIs and generally "glue") Tj T* 0 Tw (projects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 317.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (Celery) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 299.4394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (When doing tasks asynchronously celery provides a quick and very well designed platform to do them with.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 269.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Redis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 251.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I've used Redis as a very powerful hash and key/value store. I am always impressed with it's speed and stability.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 220.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (PostgreSQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 190.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.111417 Tw (This is my preferred relational database, but I have only played around with it's more advanced and powerful) Tj T* 0 Tw (features like writeable CTEs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 160.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (jQuery) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 130.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.94829 Tw (I don't always have to work with javascript, but when I do, I enjoy using jQuery for it. At least where browser) Tj T* 0 Tw (compatibility is concerned.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 99.83937 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Git) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 69.83937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .695205 Tw (My preferred source control mechanism, but not the only one I have experience with. I am by no means an expert) Tj T* 0 Tw (but know the commands used on most workflows.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+65 0 obj
+<< /Length 7679 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 784.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (AWS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 742.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .334388 Tw (I am familiar with most AWS services, that is to say I've used most of them, while I am not an expert at all of them I) Tj T* 0 Tw .524116 Tw (understand where they are best used for certain jobs. I have scripted some aspects of our operations using python) Tj T* 0 Tw (and boto.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 712.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (munin/monit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 694.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I have used munin and monit to monitor and script some self-healing into hosts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 663.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (StatsD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 645.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (While it has been replaced with Cloudwatch, StatsD has been a go-to tool for metrics collection.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 615.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Grafana) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 597.4394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A great way to create a dashboard for metrics.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 567.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Varnish) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 537.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.421268 Tw (Varnish is for my go-to tool for caching full web pages or even fragments through ESI. I've spent time tweaking) Tj T* 0 Tw (configurations and adapting Varnish to cache pages in a legacy application that had no concept of browser caching.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 506.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Traffic Server) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 476.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .437584 Tw (When a caching layer does not need to have as many customizations of the request/response as can be done with) Tj T* 0 Tw (Varnish I have used Apache Traffic Server which is an extremely powerful caching server with a tiered architecture.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 446.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (haproxy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 428.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (While there are other load balancing options, I find that haproxy has the most flexible balancing algorithms.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 397.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (spread/wackamole) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 367.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.540215 Tw (This project is outdated but it's still useful to run N master clusters of load balancers when necessary \(it allows) Tj T* 0 Tw (haproxy to scale horizontally by sharing IPs among a cluster\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 335.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Projects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 293.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .012459 Tw (Admittedly I do not have a huge portfolio of projects to offer, and only one public project per-se, and I think that's one) Tj T* 0 Tw .724205 Tw (of my largest shortcomings: I seldom do my own projects, instead I do small hacks and fixes to other projects and) Tj T* 0 Tw (submit pull requests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 262.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Public) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 233.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (gigya-server-lib) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 203.4394 cm
+q
+BT 1 0 0 1 0 14 Tm 1.3639 Tw 12 TL /F1 10 Tf 0 0 0 rg (I have only one public project, a port of ) Tj 0 0 .501961 rg (Gigya) Tj 0 0 0 rg ('s SDK to python called ) Tj 0 0 .501961 rg (gigya-server-lib) Tj 0 0 0 rg (. The library is not entirely) Tj T* 0 Tw (pythonic to maintain it closer in usage to the original. It has been abandoned since Gigya developed their own.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 185.4394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (As an aside, while working on this library I discovered a security bug that was disclosed to Gigya.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 156.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (Assorted pull requests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 138.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I've made small contributions to the following projects:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 132.2394 cm
+Q
+q
+1 0 0 1 40.01575 132.2394 cm
+Q
+q
+1 0 0 1 40.01575 81.23937 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Mongo C# Driver:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (CSHARP-204) Tj 0 0 0 rg (: found, diagnosed and fixed a concurrency issue in the mongodb driver for C#) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (CSHARP-200) Tj 0 0 0 rg (: created a patch in response to a feature request for the C# Driver) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 75.23937 cm
+Q
+q
+1 0 0 1 40.01575 51.23937 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.572205 Tw 12 TL /F1 10 Tf 0 0 0 rg (AL-Redis: ) Tj 0 0 .501961 rg (a quick patch ) Tj 0 0 0 rg (in response to having seen a TODO on the code. \(I never got the chance to use) Tj T* 0 Tw (AL-Redis but found the TODO while browsing the code.\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 45.23937 cm
+Q
+ 
+endstream
+endobj
+66 0 obj
+<< /Length 7332 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.284273 Tw 12 TL /F1 10 Tf 0 0 .501961 rg (mumble) Tj 0 0 0 rg (: No link but some client functionality for saving last connected channel and some other settings) Tj T* 0 Tw (c.2005, patch submission was via email/IRC back then.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 775.0394 cm
+Q
+q
+1 0 0 1 40.01575 744.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Private) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 732.6394 cm
+Q
+q
+1 0 0 1 40.01575 732.6394 cm
+Q
+q
+1 0 0 1 40.01575 696.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .720256 Tw (Architected new version of our Newspaper CMS for availability and scalability using .NET MVC 4.0 and .NET) Tj T* 0 Tw .752131 Tw (Web API 2.0, implementing an MQ based job system for better backend user satisfaction. The FrontEnd was) Tj T* 0 Tw (architected to use the subset of ESI available in varnish for a better user experience) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 690.6394 cm
+Q
+q
+1 0 0 1 40.01575 582.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.135606 Tw (Implemented a read-only API translation middleware using .NET Web API 2.0 and AutoMapper to provide a) Tj T* 0 Tw (proxy API so that legacy API responses could be cleaned up and made more consistent:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 75 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Corrected usage of mixed case, mixed language keys in json response) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .892008 Tw (Coerced output into consistent output models \(previously two representations of a model presented) Tj T* 0 Tw (two different ways would have inconsistent keys\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.322008 Tw (Corrected HTTP status responses \(legacy API always responded with 200 even for empty) Tj T* 0 Tw (responses\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 576.6394 cm
+Q
+q
+1 0 0 1 40.01575 513.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Implemented JIRA webhook processor in Falcon that:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Triggered and synchronized PagerDuty alerts for multiple projects/teams) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.1057 Tw (Managed internal subproject issue dependencies to create a global project that gave visibility to) Tj T* 0 Tw (project managers into many teams and projects) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 507.6394 cm
+Q
+q
+1 0 0 1 40.01575 483.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .614631 Tw (Led switch to AWS for various products, worked closely with developers to help make the transition smoother) Tj T* 0 Tw (and diagnose any problems) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 477.6394 cm
+Q
+q
+1 0 0 1 40.01575 465.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created guidelines with networking and datacenter operations teams to influence their architectural choices) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 459.6394 cm
+Q
+q
+1 0 0 1 40.01575 435.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .60745 Tw (Wrote a real time log aggregator and analytics service in python to monitor the most popular news articles on) Tj T* 0 Tw (elnuevodia.com and primerahora.com) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 429.6394 cm
+Q
+q
+1 0 0 1 40.01575 405.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .034426 Tw (Configured varnish to do things nobody should ever do on varnish to make up for a third party application's lack) Tj T* 0 Tw (of caching) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 399.6394 cm
+Q
+q
+1 0 0 1 40.01575 387.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Managed the cloud infrastructure initiative for GFR Media using AWS and Rackspace Cloud.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 381.6394 cm
+Q
+q
+1 0 0 1 40.01575 369.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Architected solutions for web deployments using various AWS services) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 369.6394 cm
+Q
+q
+1 0 0 1 40.01575 369.6394 cm
+Q
+ 
+endstream
+endobj
+67 0 obj
+<< /Length 8058 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 782.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Work Experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 751.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (GFR Media) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 722.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (DevOps/Senior Web Developer \(2008-present\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 710.6394 cm
+Q
+q
+1 0 0 1 40.01575 710.6394 cm
+Q
+q
+1 0 0 1 40.01575 686.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.069508 Tw (Architected and implemented several critical infrastructure changes necessary to scale operations to new,) Tj T* 0 Tw (quickly changing, traffic requirements) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 680.6394 cm
+Q
+q
+1 0 0 1 40.01575 656.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .061606 Tw (Moved company away from vendor lock-in to a more flexible and heterogeneous environment that could rapidly) Tj T* 0 Tw (adapt to requirement changes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 650.6394 cm
+Q
+q
+1 0 0 1 40.01575 638.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented shift into cloud environments for hosting some parts of the web infrastructure) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 632.6394 cm
+Q
+q
+1 0 0 1 40.01575 620.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designed auto-provisioning caching layers for largest local news sites and their supporting APIs) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 614.6394 cm
+Q
+q
+1 0 0 1 40.01575 602.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Led shift from monolithic applications towards more stateless API-based applications) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 596.6394 cm
+Q
+q
+1 0 0 1 40.01575 584.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Responsible for final architectural and performance review for applications) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 584.6394 cm
+Q
+q
+1 0 0 1 40.01575 554.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Insight Communications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 525.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (IT/Web Developer \(2007-2008\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 513.0394 cm
+Q
+q
+1 0 0 1 40.01575 513.0394 cm
+Q
+q
+1 0 0 1 40.01575 501.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Developed information service \(411\) database application using django and solr) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 495.0394 cm
+Q
+q
+1 0 0 1 40.01575 471.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.639546 Tw (Part of team that maintained 150+ workstations and servers for incoming and outgoing telemarketing) Tj T* 0 Tw (campaigns) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 471.0394 cm
+Q
+q
+1 0 0 1 40.01575 440.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (NeXellence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 411.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (Junior Web Developer \(2006-2007\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 399.4394 cm
+Q
+q
+1 0 0 1 40.01575 399.4394 cm
+Q
+q
+1 0 0 1 40.01575 387.4394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Wrote screen scraping software for a legacy application in order to adapt it for web use.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 387.4394 cm
+Q
+q
+1 0 0 1 40.01575 357.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Vcom3D) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 327.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (QA/System Administration Intern \(2003-2006\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 315.8394 cm
+Q
+q
+1 0 0 1 40.01575 315.8394 cm
+Q
+q
+1 0 0 1 40.01575 303.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Maintained web and local servers \(3 total\), including web, file storage and version control servers.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 297.8394 cm
+Q
+q
+1 0 0 1 40.01575 285.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Maintained fleet of testing computers and cloning environment) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 279.8394 cm
+Q
+q
+1 0 0 1 40.01575 267.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Performed final QA on 3D client application and installer) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 261.8394 cm
+Q
+q
+1 0 0 1 40.01575 231.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Configured and maintained VPS based \(Linode\) web and email server) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Immediately regretted trying to set up a spam resistant email server on 64MB of RAM) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 231.8394 cm
+Q
+q
+1 0 0 1 40.01575 231.8394 cm
+Q
+ 
+endstream
+endobj
+68 0 obj
+<< /Nums [ 0 69 0 R 1 70 0 R 2 71 0 R 3 72 0 R 4 73 0 R ] >>
+endobj
+69 0 obj
+<< /S /D /St 1 >>
+endobj
+70 0 obj
+<< /S /D /St 2 >>
+endobj
+71 0 obj
+<< /S /D /St 3 >>
+endobj
+72 0 obj
+<< /S /D /St 4 >>
+endobj
+73 0 obj
+<< /S /D /St 5 >>
+endobj
+xref
+0 74
+0000000000 65535 f
+0000000075 00000 n
+0000000139 00000 n
+0000000249 00000 n
+0000000364 00000 n
+0000000549 00000 n
+0000000733 00000 n
+0000000919 00000 n
+0000001041 00000 n
+0000001159 00000 n
+0000001398 00000 n
+0000001608 00000 n
+0000001784 00000 n
+0000001990 00000 n
+0000002188 00000 n
+0000002386 00000 n
+0000002586 00000 n
+0000002843 00000 n
+0000003029 00000 n
+0000003258 00000 n
+0000003468 00000 n
+0000003577 00000 n
+0000003814 00000 n
+0000003892 00000 n
+0000004041 00000 n
+0000004177 00000 n
+0000004329 00000 n
+0000004444 00000 n
+0000004567 00000 n
+0000004742 00000 n
+0000004849 00000 n
+0000005013 00000 n
+0000005126 00000 n
+0000005250 00000 n
+0000005373 00000 n
+0000005497 00000 n
+0000005608 00000 n
+0000005731 00000 n
+0000005859 00000 n
+0000005983 00000 n
+0000006104 00000 n
+0000006225 00000 n
+0000006354 00000 n
+0000006478 00000 n
+0000006603 00000 n
+0000006728 00000 n
+0000006860 00000 n
+0000006985 00000 n
+0000007106 00000 n
+0000007272 00000 n
+0000007423 00000 n
+0000007544 00000 n
+0000007671 00000 n
+0000007783 00000 n
+0000007943 00000 n
+0000008097 00000 n
+0000008233 00000 n
+0000008413 00000 n
+0000008535 00000 n
+0000008703 00000 n
+0000008829 00000 n
+0000008980 00000 n
+0000009117 00000 n
+0000009208 00000 n
+0000014962 00000 n
+0000021690 00000 n
+0000029426 00000 n
+0000036815 00000 n
+0000044930 00000 n
+0000045010 00000 n
+0000045047 00000 n
+0000045084 00000 n
+0000045121 00000 n
+0000045158 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)]
+ /Info 21 0 R /Root 20 0 R /Size 74 >>
+startxref
+45195
+%%EOF
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 7 0 R /F4 8 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /A << /S /URI /Type /Action /URI (http://mpilar.github.io/resume) >> /Border [ 0 0 0 ] /Rect [ 175.0757 727.0394 195.0857 739.0394 ] /Subtype /Link /Type /Annot >>
+endobj
+5 0 obj
+<< /A << /S /URI /Type /Action /URI (http://resume.readthedocs.org) >> /Border [ 0 0 0 ] /Rect [ 217.8557 709.0394 258.6757 721.0394 ] /Subtype /Link /Type /Annot >>
+endobj
+6 0 obj
+<< /A << /S /URI /Type /Action /URI (http://wraithan.readthedocs.org) >> /Border [ 0 0 0 ] /Rect [ 278.1357 709.0394 325.6157 721.0394 ] /Subtype /Link /Type /Annot >>
+endobj
+7 0 obj
+<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+8 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+9 0 obj
+<< /Annots [ 4 0 R 5 0 R 6 0 R ] /Contents 63 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 62 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+10 0 obj
+<< /Contents 64 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 62 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+11 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.gigya.com) >> /Border [ 0 0 0 ] /Rect [ 226.8308 215.4394 252.9508 227.4394 ] /Subtype /Link /Type /Annot >>
+endobj
+12 0 obj
+<< /A << /S /URI /Type /Action /URI (http://pypi.python.org/pypi/gigya-server-lib/0.1.3) >> /Border [ 0 0 0 ] /Rect [ 365.6203 215.4394 433.9603 227.4394 ] /Subtype /Link /Type /Annot >>
+endobj
+13 0 obj
+<< /A << /S /URI /Type /Action /URI (https://jira.mongodb.org/browse/CSHARP-204) >> /Border [ 0 0 0 ] /Rect [ 106.0157 93.23937 167.6957 105.2394 ] /Subtype /Link /Type /Annot >>
+endobj
+14 0 obj
+<< /A << /S /URI /Type /Action /URI (https://jira.mongodb.org/browse/CSHARP-200) >> /Border [ 0 0 0 ] /Rect [ 106.0157 75.23937 167.6957 87.23937 ] /Subtype /Link /Type /Annot >>
+endobj
+15 0 obj
+<< /A << /S /URI /Type /Action /URI (https://github.com/angieslist/AL-Redis/pull/5) >> /Border [ 0 0 0 ] /Rect [ 111.268 60.23937 177.6846 72.23937 ] /Subtype /Link /Type /Annot >>
+endobj
+16 0 obj
+<< /Annots [ 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R ] /Contents 65 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 62 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+17 0 obj
+<< /A << /S /URI /Type /Action /URI (http://mumble.sourceforge.net/) >> /Border [ 0 0 0 ] /Rect [ 63.01575 784.0394 98.57575 796.0394 ] /Subtype /Link /Type /Annot >>
+endobj
+18 0 obj
+<< /Annots [ 17 0 R ] /Contents 66 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 62 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+19 0 obj
+<< /Contents 67 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 62 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+20 0 obj
+<< /Outlines 22 0 R /PageLabels 68 0 R /PageMode /UseNone /Pages 62 0 R /Type /Catalog >>
+endobj
+21 0 obj
+<< /Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x10ff4ad40> /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title () >>
+endobj
+22 0 obj
+<< /Count 51 /First 23 0 R /Last 23 0 R /Type /Outlines >>
+endobj
+23 0 obj
+<< /Count 38 /Dest [ 9 0 R /XYZ 40.01575 799.0394 0 ] /First 24 0 R /Last 24 0 R /Parent 22 0 R /Title (Miguel Pilar's Resume) >>
+endobj
+24 0 obj
+<< /Count 37 /Dest [ 9 0 R /XYZ 40.01575 606.2394 0 ] /First 25 0 R /Last 53 0 R /Parent 23 0 R /Title (Contents) >>
+endobj
+25 0 obj
+<< /Count 2 /Dest [ 9 0 R /XYZ 40.01575 571.0394 0 ] /First 26 0 R /Last 27 0 R /Next 28 0 R /Parent 24 0 R 
+  /Title (About Me) >>
+endobj
+26 0 obj
+<< /Dest [ 9 0 R /XYZ 40.01575 424.2394 0 ] /Next 27 0 R /Parent 25 0 R /Title (Personality) >>
+endobj
+27 0 obj
+<< /Dest [ 9 0 R /XYZ 40.01575 297.8394 0 ] /Parent 25 0 R /Prev 26 0 R /Title (Irrational Thoughts) >>
+endobj
+28 0 obj
+<< /Count 19 /Dest [ 10 0 R /XYZ 40.01575 799.0394 0 ] /First 29 0 R /Last 47 0 R /Next 48 0 R /Parent 24 0 R 
+  /Prev 25 0 R /Title (Technical Skills) >>
+endobj
+29 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 700.2394 0 ] /Next 30 0 R /Parent 28 0 R /Title (C#) >>
+endobj
+30 0 obj
+<< /Count 5 /Dest [ 10 0 R /XYZ 40.01575 639.8394 0 ] /First 31 0 R /Last 35 0 R /Next 36 0 R /Parent 28 0 R 
+  /Prev 29 0 R /Title (Python) >>
+endobj
+31 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 579.4394 0 ] /Next 32 0 R /Parent 30 0 R /Title (requests) >>
+endobj
+32 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 520.2394 0 ] /Next 33 0 R /Parent 30 0 R /Prev 31 0 R /Title (Django) >>
+endobj
+33 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 461.0394 0 ] /Next 34 0 R /Parent 30 0 R /Prev 32 0 R /Title (Flask) >>
+endobj
+34 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 389.8394 0 ] /Next 35 0 R /Parent 30 0 R /Prev 33 0 R /Title (Falcon) >>
+endobj
+35 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 330.6394 0 ] /Parent 30 0 R /Prev 34 0 R /Title (Celery) >>
+endobj
+36 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 283.4394 0 ] /Next 37 0 R /Parent 28 0 R /Prev 30 0 R /Title (Redis) >>
+endobj
+37 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 235.0394 0 ] /Next 38 0 R /Parent 28 0 R /Prev 36 0 R /Title (PostgreSQL) >>
+endobj
+38 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 174.6394 0 ] /Next 39 0 R /Parent 28 0 R /Prev 37 0 R /Title (jQuery) >>
+endobj
+39 0 obj
+<< /Dest [ 10 0 R /XYZ 40.01575 114.2394 0 ] /Next 40 0 R /Parent 28 0 R /Prev 38 0 R /Title (Git) >>
+endobj
+40 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 799.0394 0 ] /Next 41 0 R /Parent 28 0 R /Prev 39 0 R /Title (AWS) >>
+endobj
+41 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 726.6394 0 ] /Next 42 0 R /Parent 28 0 R /Prev 40 0 R /Title (munin/monit) >>
+endobj
+42 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 678.2394 0 ] /Next 43 0 R /Parent 28 0 R /Prev 41 0 R /Title (StatsD) >>
+endobj
+43 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 629.8394 0 ] /Next 44 0 R /Parent 28 0 R /Prev 42 0 R /Title (Grafana) >>
+endobj
+44 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 581.4394 0 ] /Next 45 0 R /Parent 28 0 R /Prev 43 0 R /Title (Varnish) >>
+endobj
+45 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 521.0394 0 ] /Next 46 0 R /Parent 28 0 R /Prev 44 0 R /Title (Traffic Server) >>
+endobj
+46 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 460.6394 0 ] /Next 47 0 R /Parent 28 0 R /Prev 45 0 R /Title (haproxy) >>
+endobj
+47 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 412.2394 0 ] /Parent 28 0 R /Prev 46 0 R /Title (spread/wackamole) >>
+endobj
+48 0 obj
+<< /Count 4 /Dest [ 16 0 R /XYZ 40.01575 351.8394 0 ] /First 49 0 R /Last 52 0 R /Next 53 0 R /Parent 24 0 R 
+  /Prev 28 0 R /Title (Projects) >>
+endobj
+49 0 obj
+<< /Count 2 /Dest [ 16 0 R /XYZ 40.01575 277.0394 0 ] /First 50 0 R /Last 51 0 R /Next 52 0 R /Parent 48 0 R 
+  /Title (Public) >>
+endobj
+50 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 246.6394 0 ] /Next 51 0 R /Parent 49 0 R /Title (gigya-server-lib) >>
+endobj
+51 0 obj
+<< /Dest [ 16 0 R /XYZ 40.01575 169.4394 0 ] /Parent 49 0 R /Prev 50 0 R /Title (Assorted pull requests) >>
+endobj
+52 0 obj
+<< /Dest [ 18 0 R /XYZ 40.01575 759.0394 0 ] /Parent 48 0 R /Prev 49 0 R /Title (Private) >>
+endobj
+53 0 obj
+<< /Count 8 /Dest [ 19 0 R /XYZ 40.01575 799.0394 0 ] /First 54 0 R /Last 60 0 R /Parent 24 0 R /Prev 48 0 R 
+  /Title (Work Experience) >>
+endobj
+54 0 obj
+<< /Count 1 /Dest [ 19 0 R /XYZ 40.01575 766.2394 0 ] /First 55 0 R /Last 55 0 R /Next 56 0 R /Parent 53 0 R 
+  /Title (GFR Media) >>
+endobj
+55 0 obj
+<< /Dest [ 19 0 R /XYZ 40.01575 735.8394 0 ] /Parent 54 0 R /Title (DevOps/Senior Web Developer \(2008-present\)) >>
+endobj
+56 0 obj
+<< /Count 1 /Dest [ 19 0 R /XYZ 40.01575 568.6394 0 ] /First 57 0 R /Last 57 0 R /Next 58 0 R /Parent 53 0 R 
+  /Prev 54 0 R /Title (Insight Communications) >>
+endobj
+57 0 obj
+<< /Dest [ 19 0 R /XYZ 40.01575 538.2394 0 ] /Parent 56 0 R /Title (IT/Web Developer \(2007-2008\)) >>
+endobj
+58 0 obj
+<< /Count 1 /Dest [ 19 0 R /XYZ 40.01575 455.0394 0 ] /First 59 0 R /Last 59 0 R /Next 60 0 R /Parent 53 0 R 
+  /Prev 56 0 R /Title (NeXellence) >>
+endobj
+59 0 obj
+<< /Dest [ 19 0 R /XYZ 40.01575 424.6394 0 ] /Parent 58 0 R /Title (Junior Web Developer \(2006-2007\)) >>
+endobj
+60 0 obj
+<< /Count 1 /Dest [ 19 0 R /XYZ 40.01575 371.4394 0 ] /First 61 0 R /Last 61 0 R /Parent 53 0 R /Prev 58 0 R 
+  /Title (Vcom3D) >>
+endobj
+61 0 obj
+<< /Dest [ 19 0 R /XYZ 40.01575 341.0394 0 ] /Parent 60 0 R /Title (QA/System Administration Intern \(2003-2006\)) >>
+endobj
+62 0 obj
+<< /Count 5 /Kids [ 9 0 R 10 0 R 16 0 R 18 0 R 19 0 R ] /Type /Pages >>
+endobj
+63 0 obj
+<< /Length 5697 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Miguel Pilar's Resume) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 745.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.90294 Tw (I am Miguel Pilar, a Web Developing code monkey turned "DevOps/Inframagical Architect". This is my resume) Tj T* 0 Tw (written in ReStructuredText and formatted using sphinx, and not even using a custom sphinx theme.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 727.0394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (To see it compiled please see ) Tj 0 0 .501961 rg (here) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 709.0394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The format of this resume is inspired by ) Tj 0 0 .501961 rg (rdegges' ) Tj 0 0 0 rg (and ) Tj 0 0 .501961 rg (wraithan's ) Tj 0 0 0 rg (but using sphinx for a resume seems serendipitous.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 697.0394 cm
+Q
+q
+1 0 0 1 40.01575 628.2394 cm
+.933333 .933333 .933333 rg
+n 0 68.8 515.2441 -68.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 50.8 Tm  T* ET
+q
+1 0 0 1 8 44 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F3 14 Tf 16.8 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 8 cm
+q
+BT 1 0 0 1 0 14 Tm .147705 Tw 12 TL /F1 10 Tf 0 0 0 rg (This is a preliminary experiment of writing a resume with sphinx, as such it is in flux and under development until) Tj T* 0 Tw (this note disappears. ) Tj /F4 10 Tf (It will probably never disappear.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 68.8 m 515.2441 68.8 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 68.8 l S
+n 515.2441 0 m 515.2441 68.8 l S
+Q
+Q
+q
+1 0 0 1 40.01575 622.2394 cm
+Q
+q
+1 0 0 1 40.01575 587.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 554.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (About Me) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 512.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.223005 Tw (I am a developer/hacker that has very many interests, both in life and technology. I love playing around with) Tj T* 0 Tw .332131 Tw (technology I've had experience with system administration, networking and know enough to shoot myself in the foot) Tj T* 0 Tw (in very creative ways.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 470.2394 cm
+q
+0 0 0 RG
+n 95.1098 28.5 m 107.2172 28.5 l S
+BT 1 0 0 1 0 26 Tm .98745 Tw 12 TL /F1 10 Tf 0 0 0 rg (As far as languages ) Tj 0 0 0 rg (go ) Tj 0 0 0 rg (are concerned, I have tried many, have worked professionally with a range of languages,) Tj T* 0 Tw .387205 Tw (including C#, Python, go and some ruby and have had to debug in few other languages. My favorite language is by) Tj T* 0 Tw (far python.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 440.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .858087 Tw (For better or worse I am also a typical PC gamer, playing all sorts of game, sucking at a lot of them too but most) Tj T* 0 Tw (importantly enjoying myself.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 409.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Personality) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 367.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .267671 Tw (By nature I try to learn many things even if it is to know just the basics, to that end I've explored things ranging from) Tj T* 0 Tw .5821 Tw (blacksmithing to basic home repair to welding. I feel that the more breadth of knowledge one has the easier it is to) Tj T* 0 Tw (see problems and solutions in different angles.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 349.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I have had a few hobbies through the years, the more recent ones are:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 343.8394 cm
+Q
+q
+1 0 0 1 40.01575 343.8394 cm
+Q
+q
+1 0 0 1 40.01575 331.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3D priting) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 325.8394 cm
+Q
+q
+1 0 0 1 40.01575 313.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sous Vide Cooking) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 313.8394 cm
+Q
+q
+1 0 0 1 40.01575 283.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Irrational Thoughts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 229.4394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .701794 Tw (If I have a constant recurring irrational thought is that I am uncomfortable with PHP, unlike other languages I have) Tj T* 0 Tw .844004 Tw (seen I have been unable to find beauty in a PHP program. Perhaps I have not been introduced to good PHP, but) Tj T* 0 Tw 1.738205 Tw (even the language design itself seems inelegant to me. This is not to mean I don't dive into PHP programs to) Tj T* 0 Tw (diagnose them or see how they tick, but that it is well outside my comfort zone.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 229.4394 cm
+Q
+ 
+endstream
+endobj
+64 0 obj
+<< /Length 6671 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 782.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Technical Skills) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 752.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .898637 Tw (This is a list of my stronger technical skills. Through my years I've made many different small projects with varied) Tj T* 0 Tw (purposes. Among them:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 746.2394 cm
+Q
+q
+1 0 0 1 40.01575 746.2394 cm
+Q
+q
+1 0 0 1 40.01575 734.2394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (6+ years experience with Python and C#) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 728.2394 cm
+Q
+q
+1 0 0 1 40.01575 716.2394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Have played with many others like Go, Ruby and even AutoIT) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 716.2394 cm
+Q
+q
+1 0 0 1 40.01575 685.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (C#) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 655.8394 cm
+q
+BT 1 0 0 1 0 14 Tm .851894 Tw 12 TL /F1 10 Tf 0 0 0 rg (When not programming in Python for work I've had to ) Tj /F4 10 Tf (maintain ) Tj /F1 10 Tf (C# applications be them web, console or desktop.) Tj T* 0 Tw (I've had some experience working with ASP.NET MVC.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 625.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 595.4394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.036506 Tw (I've spent the last few years programming in Python professionaly and otherwise. Most of my experience with) Tj T* 0 Tw (Python is centered around writing web applications and management scripts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 566.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (requests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 536.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .498874 Tw (I will be frank, I don't actually remember how to use urllib for actual web requests \(still use it to parse urls, etc\) and) Tj T* 0 Tw (would have to spend a few minutes figuring things out again, requests is just so perfect.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 507.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (Django) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 477.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .000215 Tw (For most web projects that interact with databases I enjoy using django. I feel The django app ecosystem is powerful) Tj T* 0 Tw (and make it very easy to create a complex project quickly and efficiently.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 447.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (Flask) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 405.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .373005 Tw (For smaller web projects and prototypes I turn to Flask, nimble enough to create small projects quickly but powerful) Tj T* 0 Tw 2.671894 Tw (enough to expand them into larger projects. Specially true of projects that don't need an ORM to be tightly) Tj T* 0 Tw (integrated.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 376.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (Falcon) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 346.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.021417 Tw (A great framework for middleware and/or pure APIs, it's speedy and very useful for APIs and generally "glue") Tj T* 0 Tw (projects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 317.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (Celery) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 299.4394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (When doing tasks asynchronously celery provides a quick and very well designed platform to do them with.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 269.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Redis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 251.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I've used Redis as a very powerful hash and key/value store. I am always impressed with it's speed and stability.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 220.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (PostgreSQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 190.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.111417 Tw (This is my preferred relational database, but I have only played around with it's more advanced and powerful) Tj T* 0 Tw (features like writeable CTEs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 160.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (jQuery) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 130.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.94829 Tw (I don't always have to work with javascript, but when I do, I enjoy using jQuery for it. At least where browser) Tj T* 0 Tw (compatibility is concerned.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 99.83937 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Git) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 69.83937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .695205 Tw (My preferred source control mechanism, but not the only one I have experience with. I am by no means an expert) Tj T* 0 Tw (but know the commands used on most workflows.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+65 0 obj
+<< /Length 7679 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 784.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (AWS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 742.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .334388 Tw (I am familiar with most AWS services, that is to say I've used most of them, while I am not an expert at all of them I) Tj T* 0 Tw .524116 Tw (understand where they are best used for certain jobs. I have scripted some aspects of our operations using python) Tj T* 0 Tw (and boto.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 712.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (munin/monit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 694.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I have used munin and monit to monitor and script some self-healing into hosts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 663.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (StatsD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 645.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (While it has been replaced with Cloudwatch, StatsD has been a go-to tool for metrics collection.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 615.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Grafana) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 597.4394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A great way to create a dashboard for metrics.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 567.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Varnish) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 537.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.421268 Tw (Varnish is for my go-to tool for caching full web pages or even fragments through ESI. I've spent time tweaking) Tj T* 0 Tw (configurations and adapting Varnish to cache pages in a legacy application that had no concept of browser caching.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 506.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Traffic Server) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 476.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .437584 Tw (When a caching layer does not need to have as many customizations of the request/response as can be done with) Tj T* 0 Tw (Varnish I have used Apache Traffic Server which is an extremely powerful caching server with a tiered architecture.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 446.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (haproxy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 428.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (While there are other load balancing options, I find that haproxy has the most flexible balancing algorithms.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 397.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (spread/wackamole) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 367.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.540215 Tw (This project is outdated but it's still useful to run N master clusters of load balancers when necessary \(it allows) Tj T* 0 Tw (haproxy to scale horizontally by sharing IPs among a cluster\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 335.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Projects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 293.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .012459 Tw (Admittedly I do not have a huge portfolio of projects to offer, and only one public project per-se, and I think that's one) Tj T* 0 Tw .724205 Tw (of my largest shortcomings: I seldom do my own projects, instead I do small hacks and fixes to other projects and) Tj T* 0 Tw (submit pull requests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 262.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Public) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 233.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (gigya-server-lib) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 203.4394 cm
+q
+BT 1 0 0 1 0 14 Tm 1.3639 Tw 12 TL /F1 10 Tf 0 0 0 rg (I have only one public project, a port of ) Tj 0 0 .501961 rg (Gigya) Tj 0 0 0 rg ('s SDK to python called ) Tj 0 0 .501961 rg (gigya-server-lib) Tj 0 0 0 rg (. The library is not entirely) Tj T* 0 Tw (pythonic to maintain it closer in usage to the original. It has been abandoned since Gigya developed their own.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 185.4394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (As an aside, while working on this library I discovered a security bug that was disclosed to Gigya.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 156.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (Assorted pull requests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 138.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I've made small contributions to the following projects:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 132.2394 cm
+Q
+q
+1 0 0 1 40.01575 132.2394 cm
+Q
+q
+1 0 0 1 40.01575 81.23937 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Mongo C# Driver:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (CSHARP-204) Tj 0 0 0 rg (: found, diagnosed and fixed a concurrency issue in the mongodb driver for C#) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (CSHARP-200) Tj 0 0 0 rg (: created a patch in response to a feature request for the C# Driver) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 75.23937 cm
+Q
+q
+1 0 0 1 40.01575 51.23937 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.572205 Tw 12 TL /F1 10 Tf 0 0 0 rg (AL-Redis: ) Tj 0 0 .501961 rg (a quick patch ) Tj 0 0 0 rg (in response to having seen a TODO on the code. \(I never got the chance to use) Tj T* 0 Tw (AL-Redis but found the TODO while browsing the code.\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 45.23937 cm
+Q
+ 
+endstream
+endobj
+66 0 obj
+<< /Length 7332 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.284273 Tw 12 TL /F1 10 Tf 0 0 .501961 rg (mumble) Tj 0 0 0 rg (: No link but some client functionality for saving last connected channel and some other settings) Tj T* 0 Tw (c.2005, patch submission was via email/IRC back then.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 775.0394 cm
+Q
+q
+1 0 0 1 40.01575 744.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Private) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 732.6394 cm
+Q
+q
+1 0 0 1 40.01575 732.6394 cm
+Q
+q
+1 0 0 1 40.01575 696.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .720256 Tw (Architected new version of our Newspaper CMS for availability and scalability using .NET MVC 4.0 and .NET) Tj T* 0 Tw .752131 Tw (Web API 2.0, implementing an MQ based job system for better backend user satisfaction. The FrontEnd was) Tj T* 0 Tw (architected to use the subset of ESI available in varnish for a better user experience) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 690.6394 cm
+Q
+q
+1 0 0 1 40.01575 582.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.135606 Tw (Implemented a read-only API translation middleware using .NET Web API 2.0 and AutoMapper to provide a) Tj T* 0 Tw (proxy API so that legacy API responses could be cleaned up and made more consistent:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 75 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Corrected usage of mixed case, mixed language keys in json response) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .892008 Tw (Coerced output into consistent output models \(previously two representations of a model presented) Tj T* 0 Tw (two different ways would have inconsistent keys\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.322008 Tw (Corrected HTTP status responses \(legacy API always responded with 200 even for empty) Tj T* 0 Tw (responses\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 576.6394 cm
+Q
+q
+1 0 0 1 40.01575 513.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Implemented JIRA webhook processor in Falcon that:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Triggered and synchronized PagerDuty alerts for multiple projects/teams) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.1057 Tw (Managed internal subproject issue dependencies to create a global project that gave visibility to) Tj T* 0 Tw (project managers into many teams and projects) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 507.6394 cm
+Q
+q
+1 0 0 1 40.01575 483.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .614631 Tw (Led switch to AWS for various products, worked closely with developers to help make the transition smoother) Tj T* 0 Tw (and diagnose any problems) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 477.6394 cm
+Q
+q
+1 0 0 1 40.01575 465.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created guidelines with networking and datacenter operations teams to influence their architectural choices) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 459.6394 cm
+Q
+q
+1 0 0 1 40.01575 435.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .60745 Tw (Wrote a real time log aggregator and analytics service in python to monitor the most popular news articles on) Tj T* 0 Tw (elnuevodia.com and primerahora.com) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 429.6394 cm
+Q
+q
+1 0 0 1 40.01575 405.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .034426 Tw (Configured varnish to do things nobody should ever do on varnish to make up for a third party application's lack) Tj T* 0 Tw (of caching) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 399.6394 cm
+Q
+q
+1 0 0 1 40.01575 387.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Managed the cloud infrastructure initiative for GFR Media using AWS and Rackspace Cloud.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 381.6394 cm
+Q
+q
+1 0 0 1 40.01575 369.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Architected solutions for web deployments using various AWS services) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 369.6394 cm
+Q
+q
+1 0 0 1 40.01575 369.6394 cm
+Q
+ 
+endstream
+endobj
+67 0 obj
+<< /Length 8058 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 782.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Work Experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 751.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (GFR Media) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 722.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (DevOps/Senior Web Developer \(2008-present\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 710.6394 cm
+Q
+q
+1 0 0 1 40.01575 710.6394 cm
+Q
+q
+1 0 0 1 40.01575 686.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.069508 Tw (Architected and implemented several critical infrastructure changes necessary to scale operations to new,) Tj T* 0 Tw (quickly changing, traffic requirements) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 680.6394 cm
+Q
+q
+1 0 0 1 40.01575 656.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .061606 Tw (Moved company away from vendor lock-in to a more flexible and heterogeneous environment that could rapidly) Tj T* 0 Tw (adapt to requirement changes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 650.6394 cm
+Q
+q
+1 0 0 1 40.01575 638.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented shift into cloud environments for hosting some parts of the web infrastructure) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 632.6394 cm
+Q
+q
+1 0 0 1 40.01575 620.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designed auto-provisioning caching layers for largest local news sites and their supporting APIs) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 614.6394 cm
+Q
+q
+1 0 0 1 40.01575 602.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Led shift from monolithic applications towards more stateless API-based applications) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 596.6394 cm
+Q
+q
+1 0 0 1 40.01575 584.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Responsible for final architectural and performance review for applications) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 584.6394 cm
+Q
+q
+1 0 0 1 40.01575 554.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Insight Communications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 525.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (IT/Web Developer \(2007-2008\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 513.0394 cm
+Q
+q
+1 0 0 1 40.01575 513.0394 cm
+Q
+q
+1 0 0 1 40.01575 501.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Developed information service \(411\) database application using django and solr) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 495.0394 cm
+Q
+q
+1 0 0 1 40.01575 471.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.639546 Tw (Part of team that maintained 150+ workstations and servers for incoming and outgoing telemarketing) Tj T* 0 Tw (campaigns) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 471.0394 cm
+Q
+q
+1 0 0 1 40.01575 440.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (NeXellence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 411.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (Junior Web Developer \(2006-2007\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 399.4394 cm
+Q
+q
+1 0 0 1 40.01575 399.4394 cm
+Q
+q
+1 0 0 1 40.01575 387.4394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Wrote screen scraping software for a legacy application in order to adapt it for web use.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 387.4394 cm
+Q
+q
+1 0 0 1 40.01575 357.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Vcom3D) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 327.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 19.2 re B*
+Q
+q
+BT 1 0 0 1 0 2.2 Tm 13.2 TL /F3 11 Tf .12549 .262745 .360784 rg (QA/System Administration Intern \(2003-2006\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 315.8394 cm
+Q
+q
+1 0 0 1 40.01575 315.8394 cm
+Q
+q
+1 0 0 1 40.01575 303.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Maintained web and local servers \(3 total\), including web, file storage and version control servers.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 297.8394 cm
+Q
+q
+1 0 0 1 40.01575 285.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Maintained fleet of testing computers and cloning environment) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 279.8394 cm
+Q
+q
+1 0 0 1 40.01575 267.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Performed final QA on 3D client application and installer) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 261.8394 cm
+Q
+q
+1 0 0 1 40.01575 231.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Configured and maintained VPS based \(Linode\) web and email server) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Immediately regretted trying to set up a spam resistant email server on 64MB of RAM) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 231.8394 cm
+Q
+q
+1 0 0 1 40.01575 231.8394 cm
+Q
+ 
+endstream
+endobj
+68 0 obj
+<< /Nums [ 0 69 0 R 1 70 0 R 2 71 0 R 3 72 0 R 4 73 0 R ] >>
+endobj
+69 0 obj
+<< /S /D /St 1 >>
+endobj
+70 0 obj
+<< /S /D /St 2 >>
+endobj
+71 0 obj
+<< /S /D /St 3 >>
+endobj
+72 0 obj
+<< /S /D /St 4 >>
+endobj
+73 0 obj
+<< /S /D /St 5 >>
+endobj
+xref
+0 74
+0000000000 65535 f
+0000000075 00000 n
+0000000139 00000 n
+0000000249 00000 n
+0000000364 00000 n
+0000000549 00000 n
+0000000733 00000 n
+0000000919 00000 n
+0000001041 00000 n
+0000001159 00000 n
+0000001398 00000 n
+0000001608 00000 n
+0000001784 00000 n
+0000001990 00000 n
+0000002188 00000 n
+0000002386 00000 n
+0000002586 00000 n
+0000002843 00000 n
+0000003029 00000 n
+0000003258 00000 n
+0000003468 00000 n
+0000003577 00000 n
+0000003814 00000 n
+0000003892 00000 n
+0000004041 00000 n
+0000004177 00000 n
+0000004329 00000 n
+0000004444 00000 n
+0000004567 00000 n
+0000004742 00000 n
+0000004849 00000 n
+0000005013 00000 n
+0000005126 00000 n
+0000005250 00000 n
+0000005373 00000 n
+0000005497 00000 n
+0000005608 00000 n
+0000005731 00000 n
+0000005859 00000 n
+0000005983 00000 n
+0000006104 00000 n
+0000006225 00000 n
+0000006354 00000 n
+0000006478 00000 n
+0000006603 00000 n
+0000006728 00000 n
+0000006860 00000 n
+0000006985 00000 n
+0000007106 00000 n
+0000007272 00000 n
+0000007423 00000 n
+0000007544 00000 n
+0000007671 00000 n
+0000007783 00000 n
+0000007943 00000 n
+0000008097 00000 n
+0000008233 00000 n
+0000008413 00000 n
+0000008535 00000 n
+0000008703 00000 n
+0000008829 00000 n
+0000008980 00000 n
+0000009117 00000 n
+0000009208 00000 n
+0000014962 00000 n
+0000021690 00000 n
+0000029426 00000 n
+0000036815 00000 n
+0000044930 00000 n
+0000045010 00000 n
+0000045047 00000 n
+0000045084 00000 n
+0000045121 00000 n
+0000045158 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)]
+ /Info 21 0 R /Root 20 0 R /Size 74 >>
+startxref
+45195
+%%EOF
