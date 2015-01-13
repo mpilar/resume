@@ -4,8 +4,9 @@
 Miguel Pilar's Resume
 =====================
 
-I am Miguel Pilar, a Web Developing code monkey turned "DevOps". This is my
-resume written in ReStructuredText and formatted using sphinx.
+I am Miguel Pilar, a Web Developing code monkey turned "DevOps/Inframagical 
+Architect". This is my resume written in ReStructuredText and formatted using
+sphinx, and not even using a custom sphinx theme.
 
 The format of this resume is inspired by `rdegges 
 <http://resume.readthedocs.org>`_ and `wraithan's 
