@@ -1,3 +1,7 @@
+.. raw:: pdf
+
+    PageBreak
+
 ===============
 Work Experience
 ===============
@@ -14,7 +18,8 @@ DevOps/Senior Web Developer (2008-present)
   to scale operations to new, quickly changing, traffic requirements
 * Moved company away from vendor lock-in to a more flexible and heterogeneous 
   environment that could rapidly adapt to requirement changes
-* Implemented shift into cloud environments for hosting critical infrastructure
+* Implemented shift into cloud environments for hosting some parts of the web
+  infrastructure
 * Designed auto-provisioning caching layers for largest local news sites and 
   their supporting APIs
 * Led shift from monolithic applications towards more stateless API-based 
@@ -30,7 +35,7 @@ IT/Web Developer (2007-2008)
 * Developed information service (411) database application using django and 
   solr
 * Part of team that maintained 150+ workstations and servers for incoming and
-  outgoing campaigns
+  outgoing telemarketing campaigns
 
 ##########
 NeXellence

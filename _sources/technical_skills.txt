@@ -1,3 +1,7 @@
+.. raw:: pdf
+
+    PageBreak
+
 ================
 Technical Skills
 ================
@@ -26,6 +30,14 @@ I've spent the last few years programming in Python professionaly and
 otherwise. Most of my experience with Python is centered around
 writing web applications and management scripts.
 
+********
+requests
+********
+
+I will be frank, I don't actually remember how to use urllib for actual web 
+requests (still use it to parse urls, etc) and would have to spend a few 
+minutes figuring things out again, requests is just so perfect.
+
 ******
 Django
 ******
@@ -42,6 +54,13 @@ For smaller web projects and prototypes I turn to Flask, nimble enough to
 create small projects quickly but powerful enough to expand them into larger 
 projects. Specially true of projects that don't need an ORM to be tightly 
 integrated.
+
+******
+Falcon
+******
+
+A great framework for middleware and/or pure APIs, it's speedy and very useful
+for APIs and generally "glue" projects.
 
 ******
 Celery
@@ -61,21 +80,22 @@ impressed with it's speed and stability.
 PostgreSQL
 ##########
 
-This is my preferred relational database.
+This is my preferred relational database, but I have only played around with
+it's more advanced and powerful features like writeable CTEs.
 
 ######
 jQuery
 ######
 
 I don't always have to work with javascript, but when I do, I enjoy using
-jQuery for it.
+jQuery for it. At least where browser compatibility is concerned.
 
 ###
 Git
 ###
 
 My preferred source control mechanism, but not the only one I have experience
-with.
+with. I am by no means an expert but know the commands used on most workflows.
 
 ###
 AWS
@@ -83,15 +103,8 @@ AWS
 
 I am familiar with most AWS services, that is to say I've used most of them, 
 while I am not an expert at all of them I understand where they are best used
-for certain jobs.
-
-######
-Asgard
-######
-
-I find Netflix' Asgard to be a very powerful tool to manage deployments in AWS.
-My experience with it is limited but it's power is obvious for large 
-deployments.
+for certain jobs. I have scripted some aspects of our operations using python
+and boto.
 
 ###########
 munin/monit
@@ -107,19 +120,25 @@ While it has been replaced with Cloudwatch, StatsD has been a go-to tool for
 metrics collection.
 
 #######
+Grafana
+#######
+
+A great way to create a dashboard for metrics.
+
+#######
 Varnish
 #######
 
-Varnish is for my go-to tool for caching full web pages. I've spent time 
-tweaking configurations and adapting Varnish to cache pages not designed
-to be cached.
+Varnish is for my go-to tool for caching full web pages or even fragments 
+through ESI. I've spent time tweaking configurations and adapting Varnish to 
+cache pages in a legacy application that had no concept of browser caching.
 
 ##############
 Traffic Server
 ##############
 
 When a caching layer does not need to have as many customizations of the 
-request/response as can be done with Varnish I prefer using Apache Traffic
+request/response as can be done with Varnish I have used Apache Traffic
 Server which is an extremely powerful caching server with a tiered 
 architecture.
 
