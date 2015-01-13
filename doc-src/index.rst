@@ -8,7 +8,9 @@ I am Miguel Pilar, a Web Developing code monkey turned "DevOps/Inframagical
 Architect". This is my resume written in ReStructuredText and formatted using
 sphinx, and not even using a custom sphinx theme.
 
-The format of this resume is inspired by `rdegges 
+To see it compiled please see `here <http://mpilar.github.io/resume>`_.
+
+The format of this resume is inspired by `rdegges' 
 <http://resume.readthedocs.org>`_ and `wraithan's 
 <http://wraithan.readthedocs.org>`_ but using sphinx for a resume seems 
 serendipitous.

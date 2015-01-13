@@ -7,9 +7,10 @@ technology. I love playing around with technology I've had experience with
 system administration, networking and know enough to shoot myself in the foot 
 in very creative ways.
 
-As far as languages go, I have tried many, have worked professionally with a 
-range of languages, including C#, Python and some ruby and have had to debug 
-in few other languages. My favorite language is by far python.
+As far as languages :strike:`go`are concerned, I have tried many, have worked
+professionally with a range of languages, including C#, Python and some ruby 
+and have had to debug in few other languages. My favorite language is by far 
+python.
 
 For better or worse I am also a typical PC gamer, playing all sorts of game, 
 sucking at a lot of them too but most importantly enjoying myself.
