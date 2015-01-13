@@ -7,8 +7,8 @@ technology. I love playing around with technology I've had experience with
 system administration, networking and know enough to shoot myself in the foot 
 in very creative ways.
 
-As far as languages :strike:`go`are concerned, I have tried many, have worked
-professionally with a range of languages, including C#, Python and some ruby 
+As far as languages :strike:`go` are concerned, I have tried many, have worked
+professionally with a range of languages, including C#, Python, go and some ruby 
 and have had to debug in few other languages. My favorite language is by far 
 python.
 
