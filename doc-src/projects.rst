@@ -31,6 +31,7 @@ Assorted pull requests
 ----------------------
 
 I've made small contributions to the following projects:
+
 * Mongo C# Driver:
     - `CSHARP-204 <https://jira.mongodb.org/browse/CSHARP-204>`_: found, 
       diagnosed and fixed a concurrency issue in the mongodb driver for C#
@@ -51,6 +52,21 @@ Private
   .NET MVC 4.0 and .NET Web API 2.0, implementing an MQ based job system for better
   backend user satisfaction. The FrontEnd was architected to use the subset of ESI 
   available in varnish for a better user experience
+* Implemented a read-only API translation middleware using .NET Web API 2.0 and 
+  AutoMapper to provide a proxy API so that legacy API responses could be
+  cleaned up and made more consistent:
+
+    - Corrected usage of mixed case, mixed language keys in json response
+    - Coerced output into consistent output models (previously two representations
+      of a model presented two different ways would have inconsistent keys)
+    - Corrected HTTP status responses (legacy API always responded with 200 even 
+      for empty responses)
+
+* Implemented JIRA webhook processor in Falcon that:
+    - Triggered and synchronized PagerDuty alerts for multiple projects/teams
+    - Managed internal subproject issue dependencies to create a global project
+      that gave visibility to project managers into many teams and projects
+
 * Led switch to AWS for various products, worked closely with developers to
   help make the transition smoother and diagnose any problems
 * Created guidelines with networking and datacenter operations teams to influence 

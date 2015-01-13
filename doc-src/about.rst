@@ -35,9 +35,9 @@ I have had a few hobbies through the years, the more recent ones are:
 Irrational Thoughts
 ###################
 
-If I have a constant recurring irrational thought is that I despise PHP, 
-unlike the plethora of other languages I have seen I can never find beauty 
+If I have a constant recurring irrational thought is that I am uncomfortable 
+with PHP, unlike other languages I have seen I have been unable to find beauty
 in a PHP program. Perhaps I have not been introduced to good PHP, but even 
-the language design itself seems inelegant to a fault. This is not to mean 
-I don't dive into PHP programs to diagnose them or see how they tick, but 
-that it is not my comfort zone.
+the language design itself seems inelegant to me. This is not to mean I don't
+dive into PHP programs to diagnose them or see how they tick, but that it is
+well outside my comfort zone.
