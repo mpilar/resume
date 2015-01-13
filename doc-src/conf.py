@@ -170,7 +170,7 @@ html_static_path = ['_static']
 htmlhelp_basename = 'mpilar-resume'
 
 
-# -- Options for LaTeX output --------------------------------------------------
+# -- Options for LaTeX output -------------------------------------------------
 
 latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').
@@ -211,7 +211,7 @@ latex_documents = [
 #latex_domain_indices = True
 
 
-# -- Options for manual page output --------------------------------------------
+# -- Options for manual page output -------------------------------------------
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
@@ -224,15 +224,15 @@ man_pages = [
 #man_show_urls = False
 
 
-# -- Options for Texinfo output ------------------------------------------------
+# -- Options for Texinfo output -----------------------------------------------
 
 # Grouping the document tree into Texinfo files. List of tuples
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'mpilar-resume', u"Miguel Pilar's Resume",
-   u'Miguel Pilar', 'mpilar-resume', 'One line description of project.',
-   'Miscellaneous'),
+    ('index', 'mpilar-resume', u"Miguel Pilar's Resume",
+        u'Miguel Pilar', 'mpilar-resume', 'One line description of project.',
+        'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.
@@ -246,9 +246,13 @@ texinfo_documents = [
 
 # -- Options for rst2pdf
 pdf_documents = [
-  ('index', 'mpilar-resume', u"Miguel Pilar's Resume",
-   u'Miguel Pilar'),
+    ('index', 'mpilar-resume', u"Miguel Pilar's Resume",
+        u'Miguel Pilar'),
 ]
+
+pdf_stylesheets = ['sphinx', 'fontmods.style']
+
+pdf_style_path = ['.', '_styles']
 
 # Show Table Of Contents at the beginning?
 pdf_use_toc = False
