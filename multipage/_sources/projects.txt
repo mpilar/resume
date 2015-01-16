@@ -16,8 +16,8 @@ Public
 gigya-server-lib
 ----------------
 
-I have only one public project, a port of `Gigya <http://www.gigya.com>`_'s 
-SDK to python called 
+I have only one public project, a port of `Gigya's <http://www.gigya.com>`_ 
+PHP SDK to python called 
 `gigya-server-lib <http://pypi.python.org/pypi/gigya-server-lib/0.1.3>`_. 
 The library is not entirely pythonic to maintain it closer in usage to the 
 original. It has been abandoned since Gigya developed their own.
