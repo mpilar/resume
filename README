@@ -1,3 +1,10 @@
-This is the sphinx source for Miguel Pilar's resume, inspired by rdegges 
-http://resume.readthedocs.org and wraithan's 
-http://wraithan.readthedocs.org
+This is the sphinx source for Miguel Pilar's resume, inspired by 
+[rdegges'](http://resume.readthedocs.org) and 
+[wraithan's](http://wraithan.readthedocs.org).
+
+
+To see it compiled please click [here for single-page HTML](http://mpilar.github.io/resume) 
+or [here for multi-page HTML](http://mpilar.github.io/resume/multipage/) 
+or [here for PDF](http://mpilar.github.io/resume/_static/mpilar-resume.pdf). 
+
+Thanks for looking.

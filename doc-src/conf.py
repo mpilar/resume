@@ -88,6 +88,8 @@ pygments_style = 'sphinx'
 
 rst_prolog = """
 .. role:: strike
+
+.. role:: underline
 """
 
 # -- Options for HTML output --------------------------------------------------

@@ -13,6 +13,9 @@ or `here for multi-page HTML <http://mpilar.github.io/resume/multipage/>`_
 or `here for PDF <http://mpilar.github.io/resume/_static/mpilar-resume.pdf>`_. 
 Thanks for looking.
 
+If you just want my :ref:`contact-details` click 
+`here <http://mpilar.github.io/resume/#contact-details>`_.
+
 
 .. note::
     This is a preliminary experiment of writing a resume with sphinx, as such

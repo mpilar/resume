@@ -12,9 +12,21 @@ professionally with a range of languages, including C#, Python, go and some ruby
 and have had to debug in few other languages. My favorite language is by far 
 python.
 
+Currently I live in Puerto Rico and am a US and Spain dual citizen, allowing me
+to work in either country without any elegibility concerns.
+
 For better or worse I am also a typical PC gamer, playing all sorts of game, 
 sucking at a lot of them too but most importantly enjoying myself.
 
+.. _contact-details:
+
+###############
+Contact Details
+###############
+* **Email/Hangouts:** `prosper•spurius@gmail•com` (note: watch out for the utf dot trap)
+* **Phone:** Available upon request.
+* **Skype:** miguel＿pilar (note: replace the underscore)
+* **LinkedIn:** http://pr.linkedin.com/in/miguelpilar
 
 
 ###########
@@ -30,6 +42,7 @@ I have had a few hobbies through the years, the more recent ones are:
 
 * 3D priting
 * Sous Vide Cooking
+* Basic Electronics (translation: releasing magic blue smoke every now and then)
 
 
 ###################
