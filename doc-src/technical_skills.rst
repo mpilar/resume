@@ -26,7 +26,7 @@ MVC.
 Python
 ######
 
-I've spent the last few years programming in Python professionaly and 
+I've spent the last few years programming in Python professionally and 
 otherwise. Most of my experience with Python is centered around
 writing web applications and management scripts.
 
@@ -81,7 +81,7 @@ PostgreSQL
 ##########
 
 This is my preferred relational database, but I have only played around with
-it's more advanced and powerful features like writeable CTEs.
+it's more advanced and powerful features like writable CTEs.
 
 ######
 jQuery
