@@ -1,7 +1,7 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R /F3 7 0 R /F4 10 0 R /F5 13 0 R >>
+<< /F1 2 0 R /F2 3 0 R /F3 7 0 R /F4 12 0 R /F5 15 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
@@ -22,209 +22,212 @@ endobj
 << /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
 8 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 15 0 R /XYZ 40.01575 366.6394 0 ] /Rect [ 125.6057 697.0394 193.4057 709.0394 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 17 0 R /XYZ 40.01575 336.6394 0 ] /Rect [ 125.6057 697.0394 193.4057 709.0394 ] /Subtype /Link /Type /Annot >>
 endobj
 9 0 obj
 << /A << /S /URI /Type /Action /URI (http://mpilar.github.io/resume/#contact-details) >> /Border [ 0 0 0 ] /Rect [ 218.4057 697.0394 238.4157 709.0394 ] /Subtype /Link /Type /Annot >>
 endobj
 10 0 obj
-<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/mpilar/resume/issues) >> /Border [ 0 0 0 ] /Rect [ 509.2482 679.0394 553.1682 691.0394 ] /Subtype /Link /Type /Annot >>
 endobj
 11 0 obj
-<< /A << /S /URI /Type /Action /URI (http://resume.readthedocs.org) >> /Border [ 0 0 0 ] /Rect [ 217.8557 592.2394 258.6757 604.2394 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/mpilar/resume/issues) >> /Border [ 0 0 0 ] /Rect [ 40.01575 667.0394 83.91575 679.0394 ] /Subtype /Link /Type /Annot >>
 endobj
 12 0 obj
-<< /A << /S /URI /Type /Action /URI (http://wraithan.readthedocs.org) >> /Border [ 0 0 0 ] /Rect [ 278.1357 592.2394 325.6157 604.2394 ] /Subtype /Link /Type /Annot >>
+<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
 endobj
 13 0 obj
-<< /BaseFont /ZapfDingbats /Encoding /ZapfDingbatsEncoding /Name /F5 /Subtype /Type1 /Type /Font >>
+<< /A << /S /URI /Type /Action /URI (http://resume.readthedocs.org) >> /Border [ 0 0 0 ] /Rect [ 217.8557 562.2394 258.6757 574.2394 ] /Subtype /Link /Type /Annot >>
 endobj
 14 0 obj
-<< /A << /S /URI /Type /Action /URI (http://pr.linkedin.com/in/miguelpilar) >> /Border [ 0 0 0 ] /Rect [ 110.2457 268.8394 264.1857 280.8394 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://wraithan.readthedocs.org) >> /Border [ 0 0 0 ] /Rect [ 278.1357 562.2394 325.6157 574.2394 ] /Subtype /Link /Type /Annot >>
 endobj
 15 0 obj
-<< /Annots [ 4 0 R 5 0 R 6 0 R 8 0 R 9 0 R 11 0 R 12 0 R 14 0 R ] /Contents 70 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 69 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
-  /Trans <<  >> /Type /Page >>
+<< /BaseFont /ZapfDingbats /Encoding /ZapfDingbatsEncoding /Name /F5 /Subtype /Type1 /Type /Font >>
 endobj
 16 0 obj
-<< /Contents 71 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 69 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<< /A << /S /URI /Type /Action /URI (http://pr.linkedin.com/in/miguelpilar) >> /Border [ 0 0 0 ] /Rect [ 110.2457 238.8394 264.1857 250.8394 ] /Subtype /Link /Type /Annot >>
 endobj
 17 0 obj
-<< /A << /S /URI /Type /Action /URI (http://www.gigya.com) >> /Border [ 0 0 0 ] /Rect [ 215.7141 215.4394 251.6528 227.4394 ] /Subtype /Link /Type /Annot >>
-endobj
-18 0 obj
-<< /A << /S /URI /Type /Action /URI (http://pypi.python.org/pypi/gigya-server-lib/0.1.3) >> /Border [ 0 0 0 ] /Rect [ 371.7963 215.4394 440.1363 227.4394 ] /Subtype /Link /Type /Annot >>
-endobj
-19 0 obj
-<< /A << /S /URI /Type /Action /URI (https://jira.mongodb.org/browse/CSHARP-204) >> /Border [ 0 0 0 ] /Rect [ 106.0157 93.23937 167.6957 105.2394 ] /Subtype /Link /Type /Annot >>
-endobj
-20 0 obj
-<< /A << /S /URI /Type /Action /URI (https://jira.mongodb.org/browse/CSHARP-200) >> /Border [ 0 0 0 ] /Rect [ 106.0157 75.23937 167.6957 87.23937 ] /Subtype /Link /Type /Annot >>
-endobj
-21 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/angieslist/AL-Redis/pull/5) >> /Border [ 0 0 0 ] /Rect [ 111.268 60.23937 177.6846 72.23937 ] /Subtype /Link /Type /Annot >>
-endobj
-22 0 obj
-<< /Annots [ 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R ] /Contents 72 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 69 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 4 0 R 5 0 R 6 0 R 8 0 R 9 0 R 10 0 R 11 0 R 13 0 R 14 0 R 16 0 R ] /Contents 71 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 70 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
+18 0 obj
+<< /Contents 72 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 70 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+19 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.gigya.com) >> /Border [ 0 0 0 ] /Rect [ 215.7141 215.4394 251.6528 227.4394 ] /Subtype /Link /Type /Annot >>
+endobj
+20 0 obj
+<< /A << /S /URI /Type /Action /URI (http://pypi.python.org/pypi/gigya-server-lib/0.1.3) >> /Border [ 0 0 0 ] /Rect [ 371.7963 215.4394 440.1363 227.4394 ] /Subtype /Link /Type /Annot >>
+endobj
+21 0 obj
+<< /A << /S /URI /Type /Action /URI (https://jira.mongodb.org/browse/CSHARP-204) >> /Border [ 0 0 0 ] /Rect [ 106.0157 93.23937 167.6957 105.2394 ] /Subtype /Link /Type /Annot >>
+endobj
+22 0 obj
+<< /A << /S /URI /Type /Action /URI (https://jira.mongodb.org/browse/CSHARP-200) >> /Border [ 0 0 0 ] /Rect [ 106.0157 75.23937 167.6957 87.23937 ] /Subtype /Link /Type /Annot >>
+endobj
 23 0 obj
-<< /A << /S /URI /Type /Action /URI (http://mumble.sourceforge.net/) >> /Border [ 0 0 0 ] /Rect [ 63.01575 784.0394 98.57575 796.0394 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/angieslist/AL-Redis/pull/5) >> /Border [ 0 0 0 ] /Rect [ 111.268 60.23937 177.6846 72.23937 ] /Subtype /Link /Type /Annot >>
 endobj
 24 0 obj
-<< /Annots [ 23 0 R ] /Contents 73 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 69 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R ] /Contents 73 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 70 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 25 0 obj
-<< /Contents 74 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 69 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<< /A << /S /URI /Type /Action /URI (http://mumble.sourceforge.net/) >> /Border [ 0 0 0 ] /Rect [ 63.01575 784.0394 98.57575 796.0394 ] /Subtype /Link /Type /Annot >>
 endobj
 26 0 obj
-<< /Outlines 28 0 R /PageLabels 75 0 R /PageMode /UseNone /Pages 69 0 R /Type /Catalog >>
+<< /Annots [ 25 0 R ] /Contents 74 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 70 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 27 0 obj
-<< /Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x10e8f2b90> /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
-  /Title () >>
+<< /Contents 75 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 70 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 28 0 obj
-<< /Count 52 /First 29 0 R /Last 29 0 R /Type /Outlines >>
+<< /Outlines 30 0 R /PageLabels 76 0 R /PageMode /UseNone /Pages 70 0 R /Type /Catalog >>
 endobj
 29 0 obj
-<< /Count 39 /Dest [ 15 0 R /XYZ 40.01575 799.0394 0 ] /First 30 0 R /Last 30 0 R /Parent 28 0 R /Title (Miguel Pilar's Resume) >>
+<< /Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x110d3bdd0> /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title () >>
 endobj
 30 0 obj
-<< /Count 38 /Dest [ 15 0 R /XYZ 40.01575 576.2394 0 ] /First 31 0 R /Last 60 0 R /Parent 29 0 R /Title (Contents) >>
+<< /Count 51 /First 31 0 R /Last 31 0 R /Type /Outlines >>
 endobj
 31 0 obj
-<< /Count 3 /Dest [ 15 0 R /XYZ 40.01575 541.0394 0 ] /First 32 0 R /Last 34 0 R /Next 35 0 R /Parent 30 0 R 
-  /Title (About Me) >>
+<< /Count 38 /Dest [ 17 0 R /XYZ 40.01575 799.0394 0 ] /First 32 0 R /Last 32 0 R /Parent 30 0 R /Title (Miguel Pilar's Resume) >>
 endobj
 32 0 obj
-<< /Dest [ 15 0 R /XYZ 40.01575 364.2394 0 ] /Next 33 0 R /Parent 31 0 R /Title (Contact Details) >>
+<< /Count 37 /Dest [ 17 0 R /XYZ 40.01575 546.2394 0 ] /First 33 0 R /Last 61 0 R /Parent 31 0 R /Title (Contents) >>
 endobj
 33 0 obj
-<< /Dest [ 15 0 R /XYZ 40.01575 255.8394 0 ] /Next 34 0 R /Parent 31 0 R /Prev 32 0 R /Title (Personality) >>
+<< /Count 2 /Dest [ 17 0 R /XYZ 40.01575 511.0394 0 ] /First 34 0 R /Last 35 0 R /Next 36 0 R /Parent 32 0 R 
+  /Title (About Me) >>
 endobj
 34 0 obj
-<< /Dest [ 15 0 R /XYZ 40.01575 111.4394 0 ] /Parent 31 0 R /Prev 33 0 R /Title (Irrational Thoughts) >>
+<< /Dest [ 17 0 R /XYZ 40.01575 334.2394 0 ] /Next 35 0 R /Parent 33 0 R /Title (Contact Details) >>
 endobj
 35 0 obj
-<< /Count 19 /Dest [ 16 0 R /XYZ 40.01575 799.0394 0 ] /First 36 0 R /Last 54 0 R /Next 55 0 R /Parent 30 0 R 
-  /Prev 31 0 R /Title (Technical Skills) >>
+<< /Dest [ 17 0 R /XYZ 40.01575 225.8394 0 ] /Parent 33 0 R /Prev 34 0 R /Title (Personality) >>
 endobj
 36 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 700.2394 0 ] /Next 37 0 R /Parent 35 0 R /Title (C#) >>
+<< /Count 19 /Dest [ 18 0 R /XYZ 40.01575 799.0394 0 ] /First 37 0 R /Last 55 0 R /Next 56 0 R /Parent 32 0 R 
+  /Prev 33 0 R /Title (Technical Skills) >>
 endobj
 37 0 obj
-<< /Count 5 /Dest [ 16 0 R /XYZ 40.01575 639.8394 0 ] /First 38 0 R /Last 42 0 R /Next 43 0 R /Parent 35 0 R 
-  /Prev 36 0 R /Title (Python) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 700.2394 0 ] /Next 38 0 R /Parent 36 0 R /Title (C#) >>
 endobj
 38 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 579.4394 0 ] /Next 39 0 R /Parent 37 0 R /Title (requests) >>
+<< /Count 5 /Dest [ 18 0 R /XYZ 40.01575 639.8394 0 ] /First 39 0 R /Last 43 0 R /Next 44 0 R /Parent 36 0 R 
+  /Prev 37 0 R /Title (Python) >>
 endobj
 39 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 520.2394 0 ] /Next 40 0 R /Parent 37 0 R /Prev 38 0 R /Title (Django) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 579.4394 0 ] /Next 40 0 R /Parent 38 0 R /Title (requests) >>
 endobj
 40 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 461.0394 0 ] /Next 41 0 R /Parent 37 0 R /Prev 39 0 R /Title (Flask) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 520.2394 0 ] /Next 41 0 R /Parent 38 0 R /Prev 39 0 R /Title (Django) >>
 endobj
 41 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 389.8394 0 ] /Next 42 0 R /Parent 37 0 R /Prev 40 0 R /Title (Falcon) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 461.0394 0 ] /Next 42 0 R /Parent 38 0 R /Prev 40 0 R /Title (Flask) >>
 endobj
 42 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 330.6394 0 ] /Parent 37 0 R /Prev 41 0 R /Title (Celery) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 389.8394 0 ] /Next 43 0 R /Parent 38 0 R /Prev 41 0 R /Title (Falcon) >>
 endobj
 43 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 283.4394 0 ] /Next 44 0 R /Parent 35 0 R /Prev 37 0 R /Title (Redis) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 330.6394 0 ] /Parent 38 0 R /Prev 42 0 R /Title (Celery) >>
 endobj
 44 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 235.0394 0 ] /Next 45 0 R /Parent 35 0 R /Prev 43 0 R /Title (PostgreSQL) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 283.4394 0 ] /Next 45 0 R /Parent 36 0 R /Prev 38 0 R /Title (Redis) >>
 endobj
 45 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 174.6394 0 ] /Next 46 0 R /Parent 35 0 R /Prev 44 0 R /Title (jQuery) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 235.0394 0 ] /Next 46 0 R /Parent 36 0 R /Prev 44 0 R /Title (PostgreSQL) >>
 endobj
 46 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 114.2394 0 ] /Next 47 0 R /Parent 35 0 R /Prev 45 0 R /Title (Git) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 174.6394 0 ] /Next 47 0 R /Parent 36 0 R /Prev 45 0 R /Title (jQuery) >>
 endobj
 47 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 799.0394 0 ] /Next 48 0 R /Parent 35 0 R /Prev 46 0 R /Title (AWS) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 114.2394 0 ] /Next 48 0 R /Parent 36 0 R /Prev 46 0 R /Title (Git) >>
 endobj
 48 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 726.6394 0 ] /Next 49 0 R /Parent 35 0 R /Prev 47 0 R /Title (munin/monit) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 799.0394 0 ] /Next 49 0 R /Parent 36 0 R /Prev 47 0 R /Title (AWS) >>
 endobj
 49 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 678.2394 0 ] /Next 50 0 R /Parent 35 0 R /Prev 48 0 R /Title (StatsD) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 726.6394 0 ] /Next 50 0 R /Parent 36 0 R /Prev 48 0 R /Title (munin/monit) >>
 endobj
 50 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 629.8394 0 ] /Next 51 0 R /Parent 35 0 R /Prev 49 0 R /Title (Grafana) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 678.2394 0 ] /Next 51 0 R /Parent 36 0 R /Prev 49 0 R /Title (StatsD) >>
 endobj
 51 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 581.4394 0 ] /Next 52 0 R /Parent 35 0 R /Prev 50 0 R /Title (Varnish) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 629.8394 0 ] /Next 52 0 R /Parent 36 0 R /Prev 50 0 R /Title (Grafana) >>
 endobj
 52 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 521.0394 0 ] /Next 53 0 R /Parent 35 0 R /Prev 51 0 R /Title (Traffic Server) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 581.4394 0 ] /Next 53 0 R /Parent 36 0 R /Prev 51 0 R /Title (Varnish) >>
 endobj
 53 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 460.6394 0 ] /Next 54 0 R /Parent 35 0 R /Prev 52 0 R /Title (haproxy) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 521.0394 0 ] /Next 54 0 R /Parent 36 0 R /Prev 52 0 R /Title (Traffic Server) >>
 endobj
 54 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 412.2394 0 ] /Parent 35 0 R /Prev 53 0 R /Title (spread/wackamole) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 460.6394 0 ] /Next 55 0 R /Parent 36 0 R /Prev 53 0 R /Title (haproxy) >>
 endobj
 55 0 obj
-<< /Count 4 /Dest [ 22 0 R /XYZ 40.01575 351.8394 0 ] /First 56 0 R /Last 59 0 R /Next 60 0 R /Parent 30 0 R 
-  /Prev 35 0 R /Title (Projects) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 412.2394 0 ] /Parent 36 0 R /Prev 54 0 R /Title (spread/wackamole) >>
 endobj
 56 0 obj
-<< /Count 2 /Dest [ 22 0 R /XYZ 40.01575 277.0394 0 ] /First 57 0 R /Last 58 0 R /Next 59 0 R /Parent 55 0 R 
-  /Title (Public) >>
+<< /Count 4 /Dest [ 24 0 R /XYZ 40.01575 351.8394 0 ] /First 57 0 R /Last 60 0 R /Next 61 0 R /Parent 32 0 R 
+  /Prev 36 0 R /Title (Projects) >>
 endobj
 57 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 246.6394 0 ] /Next 58 0 R /Parent 56 0 R /Title (gigya-server-lib) >>
+<< /Count 2 /Dest [ 24 0 R /XYZ 40.01575 277.0394 0 ] /First 58 0 R /Last 59 0 R /Next 60 0 R /Parent 56 0 R 
+  /Title (Public) >>
 endobj
 58 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 169.4394 0 ] /Parent 56 0 R /Prev 57 0 R /Title (Assorted pull requests) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 246.6394 0 ] /Next 59 0 R /Parent 57 0 R /Title (gigya-server-lib) >>
 endobj
 59 0 obj
-<< /Dest [ 24 0 R /XYZ 40.01575 759.0394 0 ] /Parent 55 0 R /Prev 56 0 R /Title (Private) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 169.4394 0 ] /Parent 57 0 R /Prev 58 0 R /Title (Assorted pull requests) >>
 endobj
 60 0 obj
-<< /Count 8 /Dest [ 25 0 R /XYZ 40.01575 799.0394 0 ] /First 61 0 R /Last 67 0 R /Parent 30 0 R /Prev 55 0 R 
-  /Title (Work Experience) >>
+<< /Dest [ 26 0 R /XYZ 40.01575 759.0394 0 ] /Parent 56 0 R /Prev 57 0 R /Title (Private) >>
 endobj
 61 0 obj
-<< /Count 1 /Dest [ 25 0 R /XYZ 40.01575 766.2394 0 ] /First 62 0 R /Last 62 0 R /Next 63 0 R /Parent 60 0 R 
-  /Title (GFR Media) >>
+<< /Count 8 /Dest [ 27 0 R /XYZ 40.01575 799.0394 0 ] /First 62 0 R /Last 68 0 R /Parent 32 0 R /Prev 56 0 R 
+  /Title (Work Experience) >>
 endobj
 62 0 obj
-<< /Dest [ 25 0 R /XYZ 40.01575 735.8394 0 ] /Parent 61 0 R /Title (DevOps/Senior Web Developer \(2008-present\)) >>
+<< /Count 1 /Dest [ 27 0 R /XYZ 40.01575 766.2394 0 ] /First 63 0 R /Last 63 0 R /Next 64 0 R /Parent 61 0 R 
+  /Title (GFR Media) >>
 endobj
 63 0 obj
-<< /Count 1 /Dest [ 25 0 R /XYZ 40.01575 568.6394 0 ] /First 64 0 R /Last 64 0 R /Next 65 0 R /Parent 60 0 R 
-  /Prev 61 0 R /Title (Insight Communications) >>
+<< /Dest [ 27 0 R /XYZ 40.01575 735.8394 0 ] /Parent 62 0 R /Title (DevOps/Senior Web Developer \(2008-present\)) >>
 endobj
 64 0 obj
-<< /Dest [ 25 0 R /XYZ 40.01575 538.2394 0 ] /Parent 63 0 R /Title (IT/Web Developer \(2007-2008\)) >>
+<< /Count 1 /Dest [ 27 0 R /XYZ 40.01575 568.6394 0 ] /First 65 0 R /Last 65 0 R /Next 66 0 R /Parent 61 0 R 
+  /Prev 62 0 R /Title (Insight Communications) >>
 endobj
 65 0 obj
-<< /Count 1 /Dest [ 25 0 R /XYZ 40.01575 455.0394 0 ] /First 66 0 R /Last 66 0 R /Next 67 0 R /Parent 60 0 R 
-  /Prev 63 0 R /Title (NeXellence) >>
+<< /Dest [ 27 0 R /XYZ 40.01575 538.2394 0 ] /Parent 64 0 R /Title (IT/Web Developer \(2007-2008\)) >>
 endobj
 66 0 obj
-<< /Dest [ 25 0 R /XYZ 40.01575 424.6394 0 ] /Parent 65 0 R /Title (Junior Web Developer \(2006-2007\)) >>
+<< /Count 1 /Dest [ 27 0 R /XYZ 40.01575 455.0394 0 ] /First 67 0 R /Last 67 0 R /Next 68 0 R /Parent 61 0 R 
+  /Prev 64 0 R /Title (NeXellence) >>
 endobj
 67 0 obj
-<< /Count 1 /Dest [ 25 0 R /XYZ 40.01575 371.4394 0 ] /First 68 0 R /Last 68 0 R /Parent 60 0 R /Prev 65 0 R 
-  /Title (Vcom3D) >>
+<< /Dest [ 27 0 R /XYZ 40.01575 424.6394 0 ] /Parent 66 0 R /Title (Junior Web Developer \(2006-2007\)) >>
 endobj
 68 0 obj
-<< /Dest [ 25 0 R /XYZ 40.01575 341.0394 0 ] /Parent 67 0 R /Title (QA/System Administration Intern \(2003-2006\)) >>
+<< /Count 1 /Dest [ 27 0 R /XYZ 40.01575 371.4394 0 ] /First 69 0 R /Last 69 0 R /Parent 61 0 R /Prev 66 0 R 
+  /Title (Vcom3D) >>
 endobj
 69 0 obj
-<< /Count 5 /Kids [ 15 0 R 16 0 R 22 0 R 24 0 R 25 0 R ] /Type /Pages >>
+<< /Dest [ 27 0 R /XYZ 40.01575 341.0394 0 ] /Parent 68 0 R /Title (QA/System Administration Intern \(2003-2006\)) >>
 endobj
 70 0 obj
-<< /Length 8683 >>
+<< /Count 5 /Kids [ 17 0 R 18 0 R 24 0 R 26 0 R 27 0 R ] /Type /Pages >>
+endobj
+71 0 obj
+<< /Length 8158 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -259,10 +262,16 @@ BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (If you just want my ) Tj /F3 10 Tf 0
 Q
 Q
 q
-1 0 0 1 40.01575 685.0394 cm
+1 0 0 1 40.01575 667.0394 cm
+q
+BT 1 0 0 1 0 14 Tm 2.091624 Tw 12 TL /F1 10 Tf 0 0 0 rg (Please, if you find any comments or critique on this resume send me an email or file an issue on ) Tj 0 0 .501961 rg (the github) Tj T* 0 Tw (repository) Tj 0 0 0 rg (.) Tj T* ET
+Q
 Q
 q
-1 0 0 1 40.01575 616.2394 cm
+1 0 0 1 40.01575 655.0394 cm
+Q
+q
+1 0 0 1 40.01575 586.2394 cm
 .933333 .933333 .933333 rg
 n 0 68.8 515.2441 -68.8 re f*
 0 0 0 rg
@@ -293,16 +302,16 @@ n 515.2441 0 m 515.2441 68.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 610.2394 cm
+1 0 0 1 40.01575 580.2394 cm
 Q
 q
-1 0 0 1 40.01575 592.2394 cm
+1 0 0 1 40.01575 562.2394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The format of this resume is inspired by ) Tj 0 0 .501961 rg (rdegges' ) Tj 0 0 0 rg (and ) Tj 0 0 .501961 rg (wraithan's ) Tj 0 0 0 rg (but using sphinx for a resume seems serendipitous.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 557.0394 cm
+1 0 0 1 40.01575 527.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -314,7 +323,7 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Contents) Tj T*
 Q
 Q
 q
-1 0 0 1 40.01575 524.2394 cm
+1 0 0 1 40.01575 494.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -326,14 +335,14 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F4 14 Tf .12549 .262745 .360784 rg (About Me) Tj T*
 Q
 Q
 q
-1 0 0 1 40.01575 482.2394 cm
+1 0 0 1 40.01575 452.2394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.223005 Tw (I am a developer/hacker that has very many interests, both in life and technology. I love playing around with) Tj T* 0 Tw .332131 Tw (technology I've had experience with system administration, networking and know enough to shoot myself in the foot) Tj T* 0 Tw (in very creative ways.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 440.2394 cm
+1 0 0 1 40.01575 410.2394 cm
 q
 0 0 0 RG
 n 95.1098 28.5 m 107.2172 28.5 l S
@@ -341,21 +350,21 @@ BT 1 0 0 1 0 26 Tm .98745 Tw 12 TL /F1 10 Tf 0 0 0 rg (As far as languages ) Tj 
 Q
 Q
 q
-1 0 0 1 40.01575 410.2394 cm
+1 0 0 1 40.01575 380.2394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .153368 Tw (Currently I live in Puerto Rico and am a US and Spain dual citizen, allowing me to work in either country without any) Tj T* 0 Tw (elegibility concerns.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .153368 Tw (Currently I live in Puerto Rico and am a US and Spain dual citizen, allowing me to work in either country without any) Tj T* 0 Tw (eligibility concerns.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 380.2394 cm
+1 0 0 1 40.01575 350.2394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .858087 Tw (For better or worse I am also a typical PC gamer, playing all sorts of game, sucking at a lot of them too but most) Tj T* 0 Tw (importantly enjoying myself.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 349.8394 cm
+1 0 0 1 40.01575 319.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -367,13 +376,13 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F4 12 Tf .12549 .262745 .360784 rg (Contact Details
 Q
 Q
 q
-1 0 0 1 40.01575 337.8394 cm
+1 0 0 1 40.01575 307.8394 cm
 Q
 q
-1 0 0 1 40.01575 337.8394 cm
+1 0 0 1 40.01575 307.8394 cm
 Q
 q
-1 0 0 1 40.01575 325.8394 cm
+1 0 0 1 40.01575 295.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -393,10 +402,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 319.8394 cm
+1 0 0 1 40.01575 289.8394 cm
 Q
 q
-1 0 0 1 40.01575 307.8394 cm
+1 0 0 1 40.01575 277.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -416,10 +425,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 301.8394 cm
+1 0 0 1 40.01575 271.8394 cm
 Q
 q
-1 0 0 1 40.01575 289.8394 cm
+1 0 0 1 40.01575 259.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -439,10 +448,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 283.8394 cm
+1 0 0 1 40.01575 253.8394 cm
 Q
 q
-1 0 0 1 40.01575 271.8394 cm
+1 0 0 1 40.01575 241.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -462,10 +471,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 271.8394 cm
+1 0 0 1 40.01575 241.8394 cm
 Q
 q
-1 0 0 1 40.01575 241.4394 cm
+1 0 0 1 40.01575 211.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -477,27 +486,27 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F4 12 Tf .12549 .262745 .360784 rg (Personality) Tj
 Q
 Q
 q
-1 0 0 1 40.01575 199.4394 cm
+1 0 0 1 40.01575 169.4394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .267671 Tw (By nature I try to learn many things even if it is to know just the basics, to that end I've explored things ranging from) Tj T* 0 Tw .5821 Tw (blacksmithing to basic home repair to welding. I feel that the more breadth of knowledge one has the easier it is to) Tj T* 0 Tw (see problems and solutions in different angles.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 181.4394 cm
+1 0 0 1 40.01575 151.4394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I have had a few hobbies through the years, the more recent ones are:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 175.4394 cm
+1 0 0 1 40.01575 145.4394 cm
 Q
 q
-1 0 0 1 40.01575 175.4394 cm
+1 0 0 1 40.01575 145.4394 cm
 Q
 q
-1 0 0 1 40.01575 163.4394 cm
+1 0 0 1 40.01575 133.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -511,17 +520,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3D priting) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3D printing) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 157.4394 cm
+1 0 0 1 40.01575 127.4394 cm
 Q
 q
-1 0 0 1 40.01575 145.4394 cm
+1 0 0 1 40.01575 115.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -542,10 +551,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 139.4394 cm
+1 0 0 1 40.01575 109.4394 cm
 Q
 q
-1 0 0 1 40.01575 127.4394 cm
+1 0 0 1 40.01575 97.43937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -566,34 +575,15 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 127.4394 cm
+1 0 0 1 40.01575 97.43937 cm
 Q
 q
-1 0 0 1 40.01575 97.03937 cm
-q
-.8 .8 .8 RG
-.3 w
-.94902 .94902 .94902 rg
-n -10 0 525.2441 20.4 re B*
-Q
-q
-BT 1 0 0 1 0 2.4 Tm 14.4 TL /F4 12 Tf .12549 .262745 .360784 rg (Irrational Thoughts) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 43.03937 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .701794 Tw (If I have a constant recurring irrational thought is that I am uncomfortable with PHP, unlike other languages I have) Tj T* 0 Tw .844004 Tw (seen I have been unable to find beauty in a PHP program. Perhaps I have not been introduced to good PHP, but) Tj T* 0 Tw 1.738205 Tw (even the language design itself seems inelegant to me. This is not to mean I don't dive into PHP programs to) Tj T* 0 Tw (diagnose them or see how they tick, but that it is well outside my comfort zone.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 43.03937 cm
+1 0 0 1 40.01575 97.43937 cm
 Q
  
 endstream
 endobj
-71 0 obj
+72 0 obj
 << /Length 6671 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -704,7 +694,7 @@ q
 1 0 0 1 40.01575 595.4394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.036506 Tw (I've spent the last few years programming in Python professionaly and otherwise. Most of my experience with) Tj T* 0 Tw (Python is centered around writing web applications and management scripts.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.897756 Tw (I've spent the last few years programming in Python professionally and otherwise. Most of my experience with) Tj T* 0 Tw (Python is centered around writing web applications and management scripts.) Tj T* ET
 Q
 Q
 q
@@ -837,7 +827,7 @@ q
 1 0 0 1 40.01575 190.6394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.111417 Tw (This is my preferred relational database, but I have only played around with it's more advanced and powerful) Tj T* 0 Tw (features like writeable CTEs.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.111417 Tw (This is my preferred relational database, but I have only played around with it's more advanced and powerful) Tj T* 0 Tw (features like writable CTEs.) Tj T* ET
 Q
 Q
 q
@@ -881,7 +871,7 @@ Q
  
 endstream
 endobj
-72 0 obj
+73 0 obj
 << /Length 7684 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1228,8 +1218,8 @@ Q
  
 endstream
 endobj
-73 0 obj
-<< /Length 7332 >>
+74 0 obj
+<< /Length 7334 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1288,7 +1278,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .720256 Tw (Architected new version of our Newspaper CMS for availability and scalability using .NET MVC 4.0 and .NET) Tj T* 0 Tw .752131 Tw (Web API 2.0, implementing an MQ based job system for better backend user satisfaction. The FrontEnd was) Tj T* 0 Tw (architected to use the subset of ESI available in varnish for a better user experience) Tj T* ET
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .720256 Tw (Architected new version of our Newspaper CMS for availability and scalability using .NET MVC 4.0 and .NET) Tj T* 0 Tw .544006 Tw (Web API 2.0, implementing an MQ based job system for better back-end user satisfaction. The FrontEnd was) Tj T* 0 Tw (architected to use the subset of ESI available in varnish for a better user experience) Tj T* ET
 Q
 Q
 q
@@ -1344,7 +1334,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Corrected usage of mixed case, mixed language keys in json response) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Corrected usage of mixed case, mixed language keys in JSON response) Tj T* ET
 Q
 Q
 q
@@ -1538,7 +1528,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created guidelines with networking and datacenter operations teams to influence their architectural choices) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created guidelines with networking and data center operations teams to influence their architectural choices) Tj T* ET
 Q
 Q
 q
@@ -1649,7 +1639,7 @@ Q
  
 endstream
 endobj
-74 0 obj
+75 0 obj
 << /Length 8058 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2133,26 +2123,26 @@ Q
  
 endstream
 endobj
-75 0 obj
-<< /Nums [ 0 76 0 R 1 77 0 R 2 78 0 R 3 79 0 R 4 80 0 R ] >>
-endobj
 76 0 obj
-<< /S /D /St 1 >>
+<< /Nums [ 0 77 0 R 1 78 0 R 2 79 0 R 3 80 0 R 4 81 0 R ] >>
 endobj
 77 0 obj
-<< /S /D /St 2 >>
+<< /S /D /St 1 >>
 endobj
 78 0 obj
-<< /S /D /St 3 >>
+<< /S /D /St 2 >>
 endobj
 79 0 obj
-<< /S /D /St 4 >>
+<< /S /D /St 3 >>
 endobj
 80 0 obj
+<< /S /D /St 4 >>
+endobj
+81 0 obj
 << /S /D /St 5 >>
 endobj
 xref
-0 81
+0 82
 0000000000 65535 f
 0000000075 00000 n
 0000000151 00000 n
@@ -2164,88 +2154,89 @@ xref
 0000001084 00000 n
 0000001255 00000 n
 0000001457 00000 n
-0000001580 00000 n
-0000001765 00000 n
-0000001952 00000 n
-0000002071 00000 n
-0000002264 00000 n
-0000002537 00000 n
-0000002747 00000 n
-0000002923 00000 n
-0000003129 00000 n
+0000001652 00000 n
+0000001847 00000 n
+0000001970 00000 n
+0000002155 00000 n
+0000002342 00000 n
+0000002461 00000 n
+0000002654 00000 n
+0000002941 00000 n
+0000003151 00000 n
 0000003327 00000 n
-0000003525 00000 n
-0000003725 00000 n
-0000003982 00000 n
-0000004168 00000 n
-0000004397 00000 n
-0000004607 00000 n
-0000004716 00000 n
-0000004953 00000 n
-0000005031 00000 n
-0000005181 00000 n
-0000005318 00000 n
-0000005471 00000 n
-0000005591 00000 n
-0000005720 00000 n
-0000005844 00000 n
-0000006019 00000 n
-0000006126 00000 n
-0000006290 00000 n
-0000006403 00000 n
-0000006527 00000 n
-0000006650 00000 n
-0000006774 00000 n
-0000006885 00000 n
-0000007008 00000 n
-0000007136 00000 n
-0000007260 00000 n
-0000007381 00000 n
-0000007502 00000 n
-0000007631 00000 n
-0000007755 00000 n
-0000007880 00000 n
-0000008005 00000 n
-0000008137 00000 n
-0000008262 00000 n
-0000008383 00000 n
-0000008549 00000 n
-0000008700 00000 n
-0000008821 00000 n
-0000008948 00000 n
-0000009060 00000 n
-0000009220 00000 n
-0000009374 00000 n
-0000009510 00000 n
-0000009690 00000 n
-0000009812 00000 n
-0000009980 00000 n
-0000010106 00000 n
-0000010257 00000 n
-0000010394 00000 n
-0000010486 00000 n
-0000019226 00000 n
-0000025954 00000 n
-0000033695 00000 n
-0000041084 00000 n
-0000049199 00000 n
-0000049279 00000 n
-0000049316 00000 n
-0000049353 00000 n
-0000049390 00000 n
-0000049427 00000 n
+0000003533 00000 n
+0000003731 00000 n
+0000003929 00000 n
+0000004129 00000 n
+0000004386 00000 n
+0000004572 00000 n
+0000004801 00000 n
+0000005011 00000 n
+0000005120 00000 n
+0000005357 00000 n
+0000005435 00000 n
+0000005585 00000 n
+0000005722 00000 n
+0000005875 00000 n
+0000005995 00000 n
+0000006111 00000 n
+0000006286 00000 n
+0000006393 00000 n
+0000006557 00000 n
+0000006670 00000 n
+0000006794 00000 n
+0000006917 00000 n
+0000007041 00000 n
+0000007152 00000 n
+0000007275 00000 n
+0000007403 00000 n
+0000007527 00000 n
+0000007648 00000 n
+0000007769 00000 n
+0000007898 00000 n
+0000008022 00000 n
+0000008147 00000 n
+0000008272 00000 n
+0000008404 00000 n
+0000008529 00000 n
+0000008650 00000 n
+0000008816 00000 n
+0000008967 00000 n
+0000009088 00000 n
+0000009215 00000 n
+0000009327 00000 n
+0000009487 00000 n
+0000009641 00000 n
+0000009777 00000 n
+0000009957 00000 n
+0000010079 00000 n
+0000010247 00000 n
+0000010373 00000 n
+0000010524 00000 n
+0000010661 00000 n
+0000010753 00000 n
+0000018968 00000 n
+0000025696 00000 n
+0000033437 00000 n
+0000040828 00000 n
+0000048943 00000 n
+0000049023 00000 n
+0000049060 00000 n
+0000049097 00000 n
+0000049134 00000 n
+0000049171 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
  [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)]
- /Info 27 0 R /Root 26 0 R /Size 81 >>
+ /Info 29 0 R /Root 28 0 R /Size 82 >>
 startxref
-49464
+49208
 %%EOF
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R /F3 7 0 R /F4 10 0 R /F5 13 0 R >>
+<< /F1 2 0 R /F2 3 0 R /F3 7 0 R /F4 12 0 R /F5 15 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
@@ -2266,209 +2257,212 @@ endobj
 << /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
 8 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 15 0 R /XYZ 40.01575 366.6394 0 ] /Rect [ 125.6057 697.0394 193.4057 709.0394 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 17 0 R /XYZ 40.01575 336.6394 0 ] /Rect [ 125.6057 697.0394 193.4057 709.0394 ] /Subtype /Link /Type /Annot >>
 endobj
 9 0 obj
 << /A << /S /URI /Type /Action /URI (http://mpilar.github.io/resume/#contact-details) >> /Border [ 0 0 0 ] /Rect [ 218.4057 697.0394 238.4157 709.0394 ] /Subtype /Link /Type /Annot >>
 endobj
 10 0 obj
-<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/mpilar/resume/issues) >> /Border [ 0 0 0 ] /Rect [ 509.2482 679.0394 553.1682 691.0394 ] /Subtype /Link /Type /Annot >>
 endobj
 11 0 obj
-<< /A << /S /URI /Type /Action /URI (http://resume.readthedocs.org) >> /Border [ 0 0 0 ] /Rect [ 217.8557 592.2394 258.6757 604.2394 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/mpilar/resume/issues) >> /Border [ 0 0 0 ] /Rect [ 40.01575 667.0394 83.91575 679.0394 ] /Subtype /Link /Type /Annot >>
 endobj
 12 0 obj
-<< /A << /S /URI /Type /Action /URI (http://wraithan.readthedocs.org) >> /Border [ 0 0 0 ] /Rect [ 278.1357 592.2394 325.6157 604.2394 ] /Subtype /Link /Type /Annot >>
+<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
 endobj
 13 0 obj
-<< /BaseFont /ZapfDingbats /Encoding /ZapfDingbatsEncoding /Name /F5 /Subtype /Type1 /Type /Font >>
+<< /A << /S /URI /Type /Action /URI (http://resume.readthedocs.org) >> /Border [ 0 0 0 ] /Rect [ 217.8557 562.2394 258.6757 574.2394 ] /Subtype /Link /Type /Annot >>
 endobj
 14 0 obj
-<< /A << /S /URI /Type /Action /URI (http://pr.linkedin.com/in/miguelpilar) >> /Border [ 0 0 0 ] /Rect [ 110.2457 268.8394 264.1857 280.8394 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://wraithan.readthedocs.org) >> /Border [ 0 0 0 ] /Rect [ 278.1357 562.2394 325.6157 574.2394 ] /Subtype /Link /Type /Annot >>
 endobj
 15 0 obj
-<< /Annots [ 4 0 R 5 0 R 6 0 R 8 0 R 9 0 R 11 0 R 12 0 R 14 0 R ] /Contents 70 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 69 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
-  /Trans <<  >> /Type /Page >>
+<< /BaseFont /ZapfDingbats /Encoding /ZapfDingbatsEncoding /Name /F5 /Subtype /Type1 /Type /Font >>
 endobj
 16 0 obj
-<< /Contents 71 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 69 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<< /A << /S /URI /Type /Action /URI (http://pr.linkedin.com/in/miguelpilar) >> /Border [ 0 0 0 ] /Rect [ 110.2457 238.8394 264.1857 250.8394 ] /Subtype /Link /Type /Annot >>
 endobj
 17 0 obj
-<< /A << /S /URI /Type /Action /URI (http://www.gigya.com) >> /Border [ 0 0 0 ] /Rect [ 215.7141 215.4394 251.6528 227.4394 ] /Subtype /Link /Type /Annot >>
-endobj
-18 0 obj
-<< /A << /S /URI /Type /Action /URI (http://pypi.python.org/pypi/gigya-server-lib/0.1.3) >> /Border [ 0 0 0 ] /Rect [ 371.7963 215.4394 440.1363 227.4394 ] /Subtype /Link /Type /Annot >>
-endobj
-19 0 obj
-<< /A << /S /URI /Type /Action /URI (https://jira.mongodb.org/browse/CSHARP-204) >> /Border [ 0 0 0 ] /Rect [ 106.0157 93.23937 167.6957 105.2394 ] /Subtype /Link /Type /Annot >>
-endobj
-20 0 obj
-<< /A << /S /URI /Type /Action /URI (https://jira.mongodb.org/browse/CSHARP-200) >> /Border [ 0 0 0 ] /Rect [ 106.0157 75.23937 167.6957 87.23937 ] /Subtype /Link /Type /Annot >>
-endobj
-21 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/angieslist/AL-Redis/pull/5) >> /Border [ 0 0 0 ] /Rect [ 111.268 60.23937 177.6846 72.23937 ] /Subtype /Link /Type /Annot >>
-endobj
-22 0 obj
-<< /Annots [ 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R ] /Contents 72 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 69 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 4 0 R 5 0 R 6 0 R 8 0 R 9 0 R 10 0 R 11 0 R 13 0 R 14 0 R 16 0 R ] /Contents 71 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 70 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
+18 0 obj
+<< /Contents 72 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 70 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+19 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.gigya.com) >> /Border [ 0 0 0 ] /Rect [ 215.7141 215.4394 251.6528 227.4394 ] /Subtype /Link /Type /Annot >>
+endobj
+20 0 obj
+<< /A << /S /URI /Type /Action /URI (http://pypi.python.org/pypi/gigya-server-lib/0.1.3) >> /Border [ 0 0 0 ] /Rect [ 371.7963 215.4394 440.1363 227.4394 ] /Subtype /Link /Type /Annot >>
+endobj
+21 0 obj
+<< /A << /S /URI /Type /Action /URI (https://jira.mongodb.org/browse/CSHARP-204) >> /Border [ 0 0 0 ] /Rect [ 106.0157 93.23937 167.6957 105.2394 ] /Subtype /Link /Type /Annot >>
+endobj
+22 0 obj
+<< /A << /S /URI /Type /Action /URI (https://jira.mongodb.org/browse/CSHARP-200) >> /Border [ 0 0 0 ] /Rect [ 106.0157 75.23937 167.6957 87.23937 ] /Subtype /Link /Type /Annot >>
+endobj
 23 0 obj
-<< /A << /S /URI /Type /Action /URI (http://mumble.sourceforge.net/) >> /Border [ 0 0 0 ] /Rect [ 63.01575 784.0394 98.57575 796.0394 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/angieslist/AL-Redis/pull/5) >> /Border [ 0 0 0 ] /Rect [ 111.268 60.23937 177.6846 72.23937 ] /Subtype /Link /Type /Annot >>
 endobj
 24 0 obj
-<< /Annots [ 23 0 R ] /Contents 73 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 69 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R ] /Contents 73 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 70 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 25 0 obj
-<< /Contents 74 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 69 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<< /A << /S /URI /Type /Action /URI (http://mumble.sourceforge.net/) >> /Border [ 0 0 0 ] /Rect [ 63.01575 784.0394 98.57575 796.0394 ] /Subtype /Link /Type /Annot >>
 endobj
 26 0 obj
-<< /Outlines 28 0 R /PageLabels 75 0 R /PageMode /UseNone /Pages 69 0 R /Type /Catalog >>
+<< /Annots [ 25 0 R ] /Contents 74 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 70 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 27 0 obj
-<< /Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x10e911518> /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
-  /Title () >>
+<< /Contents 75 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 70 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 28 0 obj
-<< /Count 52 /First 29 0 R /Last 29 0 R /Type /Outlines >>
+<< /Outlines 30 0 R /PageLabels 76 0 R /PageMode /UseNone /Pages 70 0 R /Type /Catalog >>
 endobj
 29 0 obj
-<< /Count 39 /Dest [ 15 0 R /XYZ 40.01575 799.0394 0 ] /First 30 0 R /Last 30 0 R /Parent 28 0 R /Title (Miguel Pilar's Resume) >>
+<< /Author () /CreationDate <rst2pdf.createpdf.PDFDate instance at 0x110c825f0> /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title () >>
 endobj
 30 0 obj
-<< /Count 38 /Dest [ 15 0 R /XYZ 40.01575 576.2394 0 ] /First 31 0 R /Last 60 0 R /Parent 29 0 R /Title (Contents) >>
+<< /Count 51 /First 31 0 R /Last 31 0 R /Type /Outlines >>
 endobj
 31 0 obj
-<< /Count 3 /Dest [ 15 0 R /XYZ 40.01575 541.0394 0 ] /First 32 0 R /Last 34 0 R /Next 35 0 R /Parent 30 0 R 
-  /Title (About Me) >>
+<< /Count 38 /Dest [ 17 0 R /XYZ 40.01575 799.0394 0 ] /First 32 0 R /Last 32 0 R /Parent 30 0 R /Title (Miguel Pilar's Resume) >>
 endobj
 32 0 obj
-<< /Dest [ 15 0 R /XYZ 40.01575 364.2394 0 ] /Next 33 0 R /Parent 31 0 R /Title (Contact Details) >>
+<< /Count 37 /Dest [ 17 0 R /XYZ 40.01575 546.2394 0 ] /First 33 0 R /Last 61 0 R /Parent 31 0 R /Title (Contents) >>
 endobj
 33 0 obj
-<< /Dest [ 15 0 R /XYZ 40.01575 255.8394 0 ] /Next 34 0 R /Parent 31 0 R /Prev 32 0 R /Title (Personality) >>
+<< /Count 2 /Dest [ 17 0 R /XYZ 40.01575 511.0394 0 ] /First 34 0 R /Last 35 0 R /Next 36 0 R /Parent 32 0 R 
+  /Title (About Me) >>
 endobj
 34 0 obj
-<< /Dest [ 15 0 R /XYZ 40.01575 111.4394 0 ] /Parent 31 0 R /Prev 33 0 R /Title (Irrational Thoughts) >>
+<< /Dest [ 17 0 R /XYZ 40.01575 334.2394 0 ] /Next 35 0 R /Parent 33 0 R /Title (Contact Details) >>
 endobj
 35 0 obj
-<< /Count 19 /Dest [ 16 0 R /XYZ 40.01575 799.0394 0 ] /First 36 0 R /Last 54 0 R /Next 55 0 R /Parent 30 0 R 
-  /Prev 31 0 R /Title (Technical Skills) >>
+<< /Dest [ 17 0 R /XYZ 40.01575 225.8394 0 ] /Parent 33 0 R /Prev 34 0 R /Title (Personality) >>
 endobj
 36 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 700.2394 0 ] /Next 37 0 R /Parent 35 0 R /Title (C#) >>
+<< /Count 19 /Dest [ 18 0 R /XYZ 40.01575 799.0394 0 ] /First 37 0 R /Last 55 0 R /Next 56 0 R /Parent 32 0 R 
+  /Prev 33 0 R /Title (Technical Skills) >>
 endobj
 37 0 obj
-<< /Count 5 /Dest [ 16 0 R /XYZ 40.01575 639.8394 0 ] /First 38 0 R /Last 42 0 R /Next 43 0 R /Parent 35 0 R 
-  /Prev 36 0 R /Title (Python) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 700.2394 0 ] /Next 38 0 R /Parent 36 0 R /Title (C#) >>
 endobj
 38 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 579.4394 0 ] /Next 39 0 R /Parent 37 0 R /Title (requests) >>
+<< /Count 5 /Dest [ 18 0 R /XYZ 40.01575 639.8394 0 ] /First 39 0 R /Last 43 0 R /Next 44 0 R /Parent 36 0 R 
+  /Prev 37 0 R /Title (Python) >>
 endobj
 39 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 520.2394 0 ] /Next 40 0 R /Parent 37 0 R /Prev 38 0 R /Title (Django) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 579.4394 0 ] /Next 40 0 R /Parent 38 0 R /Title (requests) >>
 endobj
 40 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 461.0394 0 ] /Next 41 0 R /Parent 37 0 R /Prev 39 0 R /Title (Flask) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 520.2394 0 ] /Next 41 0 R /Parent 38 0 R /Prev 39 0 R /Title (Django) >>
 endobj
 41 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 389.8394 0 ] /Next 42 0 R /Parent 37 0 R /Prev 40 0 R /Title (Falcon) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 461.0394 0 ] /Next 42 0 R /Parent 38 0 R /Prev 40 0 R /Title (Flask) >>
 endobj
 42 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 330.6394 0 ] /Parent 37 0 R /Prev 41 0 R /Title (Celery) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 389.8394 0 ] /Next 43 0 R /Parent 38 0 R /Prev 41 0 R /Title (Falcon) >>
 endobj
 43 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 283.4394 0 ] /Next 44 0 R /Parent 35 0 R /Prev 37 0 R /Title (Redis) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 330.6394 0 ] /Parent 38 0 R /Prev 42 0 R /Title (Celery) >>
 endobj
 44 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 235.0394 0 ] /Next 45 0 R /Parent 35 0 R /Prev 43 0 R /Title (PostgreSQL) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 283.4394 0 ] /Next 45 0 R /Parent 36 0 R /Prev 38 0 R /Title (Redis) >>
 endobj
 45 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 174.6394 0 ] /Next 46 0 R /Parent 35 0 R /Prev 44 0 R /Title (jQuery) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 235.0394 0 ] /Next 46 0 R /Parent 36 0 R /Prev 44 0 R /Title (PostgreSQL) >>
 endobj
 46 0 obj
-<< /Dest [ 16 0 R /XYZ 40.01575 114.2394 0 ] /Next 47 0 R /Parent 35 0 R /Prev 45 0 R /Title (Git) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 174.6394 0 ] /Next 47 0 R /Parent 36 0 R /Prev 45 0 R /Title (jQuery) >>
 endobj
 47 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 799.0394 0 ] /Next 48 0 R /Parent 35 0 R /Prev 46 0 R /Title (AWS) >>
+<< /Dest [ 18 0 R /XYZ 40.01575 114.2394 0 ] /Next 48 0 R /Parent 36 0 R /Prev 46 0 R /Title (Git) >>
 endobj
 48 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 726.6394 0 ] /Next 49 0 R /Parent 35 0 R /Prev 47 0 R /Title (munin/monit) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 799.0394 0 ] /Next 49 0 R /Parent 36 0 R /Prev 47 0 R /Title (AWS) >>
 endobj
 49 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 678.2394 0 ] /Next 50 0 R /Parent 35 0 R /Prev 48 0 R /Title (StatsD) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 726.6394 0 ] /Next 50 0 R /Parent 36 0 R /Prev 48 0 R /Title (munin/monit) >>
 endobj
 50 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 629.8394 0 ] /Next 51 0 R /Parent 35 0 R /Prev 49 0 R /Title (Grafana) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 678.2394 0 ] /Next 51 0 R /Parent 36 0 R /Prev 49 0 R /Title (StatsD) >>
 endobj
 51 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 581.4394 0 ] /Next 52 0 R /Parent 35 0 R /Prev 50 0 R /Title (Varnish) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 629.8394 0 ] /Next 52 0 R /Parent 36 0 R /Prev 50 0 R /Title (Grafana) >>
 endobj
 52 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 521.0394 0 ] /Next 53 0 R /Parent 35 0 R /Prev 51 0 R /Title (Traffic Server) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 581.4394 0 ] /Next 53 0 R /Parent 36 0 R /Prev 51 0 R /Title (Varnish) >>
 endobj
 53 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 460.6394 0 ] /Next 54 0 R /Parent 35 0 R /Prev 52 0 R /Title (haproxy) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 521.0394 0 ] /Next 54 0 R /Parent 36 0 R /Prev 52 0 R /Title (Traffic Server) >>
 endobj
 54 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 412.2394 0 ] /Parent 35 0 R /Prev 53 0 R /Title (spread/wackamole) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 460.6394 0 ] /Next 55 0 R /Parent 36 0 R /Prev 53 0 R /Title (haproxy) >>
 endobj
 55 0 obj
-<< /Count 4 /Dest [ 22 0 R /XYZ 40.01575 351.8394 0 ] /First 56 0 R /Last 59 0 R /Next 60 0 R /Parent 30 0 R 
-  /Prev 35 0 R /Title (Projects) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 412.2394 0 ] /Parent 36 0 R /Prev 54 0 R /Title (spread/wackamole) >>
 endobj
 56 0 obj
-<< /Count 2 /Dest [ 22 0 R /XYZ 40.01575 277.0394 0 ] /First 57 0 R /Last 58 0 R /Next 59 0 R /Parent 55 0 R 
-  /Title (Public) >>
+<< /Count 4 /Dest [ 24 0 R /XYZ 40.01575 351.8394 0 ] /First 57 0 R /Last 60 0 R /Next 61 0 R /Parent 32 0 R 
+  /Prev 36 0 R /Title (Projects) >>
 endobj
 57 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 246.6394 0 ] /Next 58 0 R /Parent 56 0 R /Title (gigya-server-lib) >>
+<< /Count 2 /Dest [ 24 0 R /XYZ 40.01575 277.0394 0 ] /First 58 0 R /Last 59 0 R /Next 60 0 R /Parent 56 0 R 
+  /Title (Public) >>
 endobj
 58 0 obj
-<< /Dest [ 22 0 R /XYZ 40.01575 169.4394 0 ] /Parent 56 0 R /Prev 57 0 R /Title (Assorted pull requests) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 246.6394 0 ] /Next 59 0 R /Parent 57 0 R /Title (gigya-server-lib) >>
 endobj
 59 0 obj
-<< /Dest [ 24 0 R /XYZ 40.01575 759.0394 0 ] /Parent 55 0 R /Prev 56 0 R /Title (Private) >>
+<< /Dest [ 24 0 R /XYZ 40.01575 169.4394 0 ] /Parent 57 0 R /Prev 58 0 R /Title (Assorted pull requests) >>
 endobj
 60 0 obj
-<< /Count 8 /Dest [ 25 0 R /XYZ 40.01575 799.0394 0 ] /First 61 0 R /Last 67 0 R /Parent 30 0 R /Prev 55 0 R 
-  /Title (Work Experience) >>
+<< /Dest [ 26 0 R /XYZ 40.01575 759.0394 0 ] /Parent 56 0 R /Prev 57 0 R /Title (Private) >>
 endobj
 61 0 obj
-<< /Count 1 /Dest [ 25 0 R /XYZ 40.01575 766.2394 0 ] /First 62 0 R /Last 62 0 R /Next 63 0 R /Parent 60 0 R 
-  /Title (GFR Media) >>
+<< /Count 8 /Dest [ 27 0 R /XYZ 40.01575 799.0394 0 ] /First 62 0 R /Last 68 0 R /Parent 32 0 R /Prev 56 0 R 
+  /Title (Work Experience) >>
 endobj
 62 0 obj
-<< /Dest [ 25 0 R /XYZ 40.01575 735.8394 0 ] /Parent 61 0 R /Title (DevOps/Senior Web Developer \(2008-present\)) >>
+<< /Count 1 /Dest [ 27 0 R /XYZ 40.01575 766.2394 0 ] /First 63 0 R /Last 63 0 R /Next 64 0 R /Parent 61 0 R 
+  /Title (GFR Media) >>
 endobj
 63 0 obj
-<< /Count 1 /Dest [ 25 0 R /XYZ 40.01575 568.6394 0 ] /First 64 0 R /Last 64 0 R /Next 65 0 R /Parent 60 0 R 
-  /Prev 61 0 R /Title (Insight Communications) >>
+<< /Dest [ 27 0 R /XYZ 40.01575 735.8394 0 ] /Parent 62 0 R /Title (DevOps/Senior Web Developer \(2008-present\)) >>
 endobj
 64 0 obj
-<< /Dest [ 25 0 R /XYZ 40.01575 538.2394 0 ] /Parent 63 0 R /Title (IT/Web Developer \(2007-2008\)) >>
+<< /Count 1 /Dest [ 27 0 R /XYZ 40.01575 568.6394 0 ] /First 65 0 R /Last 65 0 R /Next 66 0 R /Parent 61 0 R 
+  /Prev 62 0 R /Title (Insight Communications) >>
 endobj
 65 0 obj
-<< /Count 1 /Dest [ 25 0 R /XYZ 40.01575 455.0394 0 ] /First 66 0 R /Last 66 0 R /Next 67 0 R /Parent 60 0 R 
-  /Prev 63 0 R /Title (NeXellence) >>
+<< /Dest [ 27 0 R /XYZ 40.01575 538.2394 0 ] /Parent 64 0 R /Title (IT/Web Developer \(2007-2008\)) >>
 endobj
 66 0 obj
-<< /Dest [ 25 0 R /XYZ 40.01575 424.6394 0 ] /Parent 65 0 R /Title (Junior Web Developer \(2006-2007\)) >>
+<< /Count 1 /Dest [ 27 0 R /XYZ 40.01575 455.0394 0 ] /First 67 0 R /Last 67 0 R /Next 68 0 R /Parent 61 0 R 
+  /Prev 64 0 R /Title (NeXellence) >>
 endobj
 67 0 obj
-<< /Count 1 /Dest [ 25 0 R /XYZ 40.01575 371.4394 0 ] /First 68 0 R /Last 68 0 R /Parent 60 0 R /Prev 65 0 R 
-  /Title (Vcom3D) >>
+<< /Dest [ 27 0 R /XYZ 40.01575 424.6394 0 ] /Parent 66 0 R /Title (Junior Web Developer \(2006-2007\)) >>
 endobj
 68 0 obj
-<< /Dest [ 25 0 R /XYZ 40.01575 341.0394 0 ] /Parent 67 0 R /Title (QA/System Administration Intern \(2003-2006\)) >>
+<< /Count 1 /Dest [ 27 0 R /XYZ 40.01575 371.4394 0 ] /First 69 0 R /Last 69 0 R /Parent 61 0 R /Prev 66 0 R 
+  /Title (Vcom3D) >>
 endobj
 69 0 obj
-<< /Count 5 /Kids [ 15 0 R 16 0 R 22 0 R 24 0 R 25 0 R ] /Type /Pages >>
+<< /Dest [ 27 0 R /XYZ 40.01575 341.0394 0 ] /Parent 68 0 R /Title (QA/System Administration Intern \(2003-2006\)) >>
 endobj
 70 0 obj
-<< /Length 8683 >>
+<< /Count 5 /Kids [ 17 0 R 18 0 R 24 0 R 26 0 R 27 0 R ] /Type /Pages >>
+endobj
+71 0 obj
+<< /Length 8158 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -2503,10 +2497,16 @@ BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (If you just want my ) Tj /F3 10 Tf 0
 Q
 Q
 q
-1 0 0 1 40.01575 685.0394 cm
+1 0 0 1 40.01575 667.0394 cm
+q
+BT 1 0 0 1 0 14 Tm 2.091624 Tw 12 TL /F1 10 Tf 0 0 0 rg (Please, if you find any comments or critique on this resume send me an email or file an issue on ) Tj 0 0 .501961 rg (the github) Tj T* 0 Tw (repository) Tj 0 0 0 rg (.) Tj T* ET
+Q
 Q
 q
-1 0 0 1 40.01575 616.2394 cm
+1 0 0 1 40.01575 655.0394 cm
+Q
+q
+1 0 0 1 40.01575 586.2394 cm
 .933333 .933333 .933333 rg
 n 0 68.8 515.2441 -68.8 re f*
 0 0 0 rg
@@ -2537,16 +2537,16 @@ n 515.2441 0 m 515.2441 68.8 l S
 Q
 Q
 q
-1 0 0 1 40.01575 610.2394 cm
+1 0 0 1 40.01575 580.2394 cm
 Q
 q
-1 0 0 1 40.01575 592.2394 cm
+1 0 0 1 40.01575 562.2394 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The format of this resume is inspired by ) Tj 0 0 .501961 rg (rdegges' ) Tj 0 0 0 rg (and ) Tj 0 0 .501961 rg (wraithan's ) Tj 0 0 0 rg (but using sphinx for a resume seems serendipitous.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 557.0394 cm
+1 0 0 1 40.01575 527.0394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -2558,7 +2558,7 @@ BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Contents) Tj T*
 Q
 Q
 q
-1 0 0 1 40.01575 524.2394 cm
+1 0 0 1 40.01575 494.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -2570,14 +2570,14 @@ BT 1 0 0 1 0 2.8 Tm 16.8 TL /F4 14 Tf .12549 .262745 .360784 rg (About Me) Tj T*
 Q
 Q
 q
-1 0 0 1 40.01575 482.2394 cm
+1 0 0 1 40.01575 452.2394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.223005 Tw (I am a developer/hacker that has very many interests, both in life and technology. I love playing around with) Tj T* 0 Tw .332131 Tw (technology I've had experience with system administration, networking and know enough to shoot myself in the foot) Tj T* 0 Tw (in very creative ways.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 440.2394 cm
+1 0 0 1 40.01575 410.2394 cm
 q
 0 0 0 RG
 n 95.1098 28.5 m 107.2172 28.5 l S
@@ -2585,21 +2585,21 @@ BT 1 0 0 1 0 26 Tm .98745 Tw 12 TL /F1 10 Tf 0 0 0 rg (As far as languages ) Tj 
 Q
 Q
 q
-1 0 0 1 40.01575 410.2394 cm
+1 0 0 1 40.01575 380.2394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .153368 Tw (Currently I live in Puerto Rico and am a US and Spain dual citizen, allowing me to work in either country without any) Tj T* 0 Tw (elegibility concerns.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .153368 Tw (Currently I live in Puerto Rico and am a US and Spain dual citizen, allowing me to work in either country without any) Tj T* 0 Tw (eligibility concerns.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 380.2394 cm
+1 0 0 1 40.01575 350.2394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .858087 Tw (For better or worse I am also a typical PC gamer, playing all sorts of game, sucking at a lot of them too but most) Tj T* 0 Tw (importantly enjoying myself.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 349.8394 cm
+1 0 0 1 40.01575 319.8394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -2611,13 +2611,13 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F4 12 Tf .12549 .262745 .360784 rg (Contact Details
 Q
 Q
 q
-1 0 0 1 40.01575 337.8394 cm
+1 0 0 1 40.01575 307.8394 cm
 Q
 q
-1 0 0 1 40.01575 337.8394 cm
+1 0 0 1 40.01575 307.8394 cm
 Q
 q
-1 0 0 1 40.01575 325.8394 cm
+1 0 0 1 40.01575 295.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2637,10 +2637,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 319.8394 cm
+1 0 0 1 40.01575 289.8394 cm
 Q
 q
-1 0 0 1 40.01575 307.8394 cm
+1 0 0 1 40.01575 277.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2660,10 +2660,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 301.8394 cm
+1 0 0 1 40.01575 271.8394 cm
 Q
 q
-1 0 0 1 40.01575 289.8394 cm
+1 0 0 1 40.01575 259.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2683,10 +2683,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 283.8394 cm
+1 0 0 1 40.01575 253.8394 cm
 Q
 q
-1 0 0 1 40.01575 271.8394 cm
+1 0 0 1 40.01575 241.8394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2706,10 +2706,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 271.8394 cm
+1 0 0 1 40.01575 241.8394 cm
 Q
 q
-1 0 0 1 40.01575 241.4394 cm
+1 0 0 1 40.01575 211.4394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -2721,27 +2721,27 @@ BT 1 0 0 1 0 2.4 Tm 14.4 TL /F4 12 Tf .12549 .262745 .360784 rg (Personality) Tj
 Q
 Q
 q
-1 0 0 1 40.01575 199.4394 cm
+1 0 0 1 40.01575 169.4394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .267671 Tw (By nature I try to learn many things even if it is to know just the basics, to that end I've explored things ranging from) Tj T* 0 Tw .5821 Tw (blacksmithing to basic home repair to welding. I feel that the more breadth of knowledge one has the easier it is to) Tj T* 0 Tw (see problems and solutions in different angles.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 181.4394 cm
+1 0 0 1 40.01575 151.4394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I have had a few hobbies through the years, the more recent ones are:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 175.4394 cm
+1 0 0 1 40.01575 145.4394 cm
 Q
 q
-1 0 0 1 40.01575 175.4394 cm
+1 0 0 1 40.01575 145.4394 cm
 Q
 q
-1 0 0 1 40.01575 163.4394 cm
+1 0 0 1 40.01575 133.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2755,17 +2755,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3D priting) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3D printing) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 157.4394 cm
+1 0 0 1 40.01575 127.4394 cm
 Q
 q
-1 0 0 1 40.01575 145.4394 cm
+1 0 0 1 40.01575 115.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2786,10 +2786,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 139.4394 cm
+1 0 0 1 40.01575 109.4394 cm
 Q
 q
-1 0 0 1 40.01575 127.4394 cm
+1 0 0 1 40.01575 97.43937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2810,34 +2810,15 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 127.4394 cm
+1 0 0 1 40.01575 97.43937 cm
 Q
 q
-1 0 0 1 40.01575 97.03937 cm
-q
-.8 .8 .8 RG
-.3 w
-.94902 .94902 .94902 rg
-n -10 0 525.2441 20.4 re B*
-Q
-q
-BT 1 0 0 1 0 2.4 Tm 14.4 TL /F4 12 Tf .12549 .262745 .360784 rg (Irrational Thoughts) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 43.03937 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .701794 Tw (If I have a constant recurring irrational thought is that I am uncomfortable with PHP, unlike other languages I have) Tj T* 0 Tw .844004 Tw (seen I have been unable to find beauty in a PHP program. Perhaps I have not been introduced to good PHP, but) Tj T* 0 Tw 1.738205 Tw (even the language design itself seems inelegant to me. This is not to mean I don't dive into PHP programs to) Tj T* 0 Tw (diagnose them or see how they tick, but that it is well outside my comfort zone.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 43.03937 cm
+1 0 0 1 40.01575 97.43937 cm
 Q
  
 endstream
 endobj
-71 0 obj
+72 0 obj
 << /Length 6671 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2948,7 +2929,7 @@ q
 1 0 0 1 40.01575 595.4394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.036506 Tw (I've spent the last few years programming in Python professionaly and otherwise. Most of my experience with) Tj T* 0 Tw (Python is centered around writing web applications and management scripts.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.897756 Tw (I've spent the last few years programming in Python professionally and otherwise. Most of my experience with) Tj T* 0 Tw (Python is centered around writing web applications and management scripts.) Tj T* ET
 Q
 Q
 q
@@ -3081,7 +3062,7 @@ q
 1 0 0 1 40.01575 190.6394 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.111417 Tw (This is my preferred relational database, but I have only played around with it's more advanced and powerful) Tj T* 0 Tw (features like writeable CTEs.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.111417 Tw (This is my preferred relational database, but I have only played around with it's more advanced and powerful) Tj T* 0 Tw (features like writable CTEs.) Tj T* ET
 Q
 Q
 q
@@ -3125,7 +3106,7 @@ Q
  
 endstream
 endobj
-72 0 obj
+73 0 obj
 << /Length 7684 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3472,8 +3453,8 @@ Q
  
 endstream
 endobj
-73 0 obj
-<< /Length 7332 >>
+74 0 obj
+<< /Length 7334 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -3532,7 +3513,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .720256 Tw (Architected new version of our Newspaper CMS for availability and scalability using .NET MVC 4.0 and .NET) Tj T* 0 Tw .752131 Tw (Web API 2.0, implementing an MQ based job system for better backend user satisfaction. The FrontEnd was) Tj T* 0 Tw (architected to use the subset of ESI available in varnish for a better user experience) Tj T* ET
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .720256 Tw (Architected new version of our Newspaper CMS for availability and scalability using .NET MVC 4.0 and .NET) Tj T* 0 Tw .544006 Tw (Web API 2.0, implementing an MQ based job system for better back-end user satisfaction. The FrontEnd was) Tj T* 0 Tw (architected to use the subset of ESI available in varnish for a better user experience) Tj T* ET
 Q
 Q
 q
@@ -3588,7 +3569,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Corrected usage of mixed case, mixed language keys in json response) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Corrected usage of mixed case, mixed language keys in JSON response) Tj T* ET
 Q
 Q
 q
@@ -3782,7 +3763,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created guidelines with networking and datacenter operations teams to influence their architectural choices) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created guidelines with networking and data center operations teams to influence their architectural choices) Tj T* ET
 Q
 Q
 q
@@ -3893,7 +3874,7 @@ Q
  
 endstream
 endobj
-74 0 obj
+75 0 obj
 << /Length 8058 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -4377,26 +4358,26 @@ Q
  
 endstream
 endobj
-75 0 obj
-<< /Nums [ 0 76 0 R 1 77 0 R 2 78 0 R 3 79 0 R 4 80 0 R ] >>
-endobj
 76 0 obj
-<< /S /D /St 1 >>
+<< /Nums [ 0 77 0 R 1 78 0 R 2 79 0 R 3 80 0 R 4 81 0 R ] >>
 endobj
 77 0 obj
-<< /S /D /St 2 >>
+<< /S /D /St 1 >>
 endobj
 78 0 obj
-<< /S /D /St 3 >>
+<< /S /D /St 2 >>
 endobj
 79 0 obj
-<< /S /D /St 4 >>
+<< /S /D /St 3 >>
 endobj
 80 0 obj
+<< /S /D /St 4 >>
+endobj
+81 0 obj
 << /S /D /St 5 >>
 endobj
 xref
-0 81
+0 82
 0000000000 65535 f
 0000000075 00000 n
 0000000151 00000 n
@@ -4408,81 +4389,82 @@ xref
 0000001084 00000 n
 0000001255 00000 n
 0000001457 00000 n
-0000001580 00000 n
-0000001765 00000 n
-0000001952 00000 n
-0000002071 00000 n
-0000002264 00000 n
-0000002537 00000 n
-0000002747 00000 n
-0000002923 00000 n
-0000003129 00000 n
+0000001652 00000 n
+0000001847 00000 n
+0000001970 00000 n
+0000002155 00000 n
+0000002342 00000 n
+0000002461 00000 n
+0000002654 00000 n
+0000002941 00000 n
+0000003151 00000 n
 0000003327 00000 n
-0000003525 00000 n
-0000003725 00000 n
-0000003982 00000 n
-0000004168 00000 n
-0000004397 00000 n
-0000004607 00000 n
-0000004716 00000 n
-0000004953 00000 n
-0000005031 00000 n
-0000005181 00000 n
-0000005318 00000 n
-0000005471 00000 n
-0000005591 00000 n
-0000005720 00000 n
-0000005844 00000 n
-0000006019 00000 n
-0000006126 00000 n
-0000006290 00000 n
-0000006403 00000 n
-0000006527 00000 n
-0000006650 00000 n
-0000006774 00000 n
-0000006885 00000 n
-0000007008 00000 n
-0000007136 00000 n
-0000007260 00000 n
-0000007381 00000 n
-0000007502 00000 n
-0000007631 00000 n
-0000007755 00000 n
-0000007880 00000 n
-0000008005 00000 n
-0000008137 00000 n
-0000008262 00000 n
-0000008383 00000 n
-0000008549 00000 n
-0000008700 00000 n
-0000008821 00000 n
-0000008948 00000 n
-0000009060 00000 n
-0000009220 00000 n
-0000009374 00000 n
-0000009510 00000 n
-0000009690 00000 n
-0000009812 00000 n
-0000009980 00000 n
-0000010106 00000 n
-0000010257 00000 n
-0000010394 00000 n
-0000010486 00000 n
-0000019226 00000 n
-0000025954 00000 n
-0000033695 00000 n
-0000041084 00000 n
-0000049199 00000 n
-0000049279 00000 n
-0000049316 00000 n
-0000049353 00000 n
-0000049390 00000 n
-0000049427 00000 n
+0000003533 00000 n
+0000003731 00000 n
+0000003929 00000 n
+0000004129 00000 n
+0000004386 00000 n
+0000004572 00000 n
+0000004801 00000 n
+0000005011 00000 n
+0000005120 00000 n
+0000005357 00000 n
+0000005435 00000 n
+0000005585 00000 n
+0000005722 00000 n
+0000005875 00000 n
+0000005995 00000 n
+0000006111 00000 n
+0000006286 00000 n
+0000006393 00000 n
+0000006557 00000 n
+0000006670 00000 n
+0000006794 00000 n
+0000006917 00000 n
+0000007041 00000 n
+0000007152 00000 n
+0000007275 00000 n
+0000007403 00000 n
+0000007527 00000 n
+0000007648 00000 n
+0000007769 00000 n
+0000007898 00000 n
+0000008022 00000 n
+0000008147 00000 n
+0000008272 00000 n
+0000008404 00000 n
+0000008529 00000 n
+0000008650 00000 n
+0000008816 00000 n
+0000008967 00000 n
+0000009088 00000 n
+0000009215 00000 n
+0000009327 00000 n
+0000009487 00000 n
+0000009641 00000 n
+0000009777 00000 n
+0000009957 00000 n
+0000010079 00000 n
+0000010247 00000 n
+0000010373 00000 n
+0000010524 00000 n
+0000010661 00000 n
+0000010753 00000 n
+0000018968 00000 n
+0000025696 00000 n
+0000033437 00000 n
+0000040828 00000 n
+0000048943 00000 n
+0000049023 00000 n
+0000049060 00000 n
+0000049097 00000 n
+0000049134 00000 n
+0000049171 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
  [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)]
- /Info 27 0 R /Root 26 0 R /Size 81 >>
+ /Info 29 0 R /Root 28 0 R /Size 82 >>
 startxref
-49464
+49208
 %%EOF

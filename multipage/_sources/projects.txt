@@ -50,13 +50,13 @@ Private
 
 * Architected new version of our Newspaper CMS for availability and scalability using 
   .NET MVC 4.0 and .NET Web API 2.0, implementing an MQ based job system for better
-  backend user satisfaction. The FrontEnd was architected to use the subset of ESI 
+  back-end user satisfaction. The FrontEnd was architected to use the subset of ESI 
   available in varnish for a better user experience
 * Implemented a read-only API translation middleware using .NET Web API 2.0 and 
   AutoMapper to provide a proxy API so that legacy API responses could be
   cleaned up and made more consistent:
 
-    - Corrected usage of mixed case, mixed language keys in json response
+    - Corrected usage of mixed case, mixed language keys in JSON response
     - Coerced output into consistent output models (previously two representations
       of a model presented two different ways would have inconsistent keys)
     - Corrected HTTP status responses (legacy API always responded with 200 even 
@@ -69,7 +69,7 @@ Private
 
 * Led switch to AWS for various products, worked closely with developers to
   help make the transition smoother and diagnose any problems
-* Created guidelines with networking and datacenter operations teams to influence 
+* Created guidelines with networking and data center operations teams to influence 
   their architectural choices
 * Wrote a real time log aggregator and analytics service in python to monitor the
   most popular news articles on elnuevodia.com and primerahora.com

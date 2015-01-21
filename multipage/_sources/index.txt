@@ -16,6 +16,8 @@ Thanks for looking.
 If you just want my :ref:`contact-details` click 
 `here <http://mpilar.github.io/resume/#contact-details>`_.
 
+Please, if you find any comments or critique on this resume send me an email or
+file an issue on `the github repository <https://github.com/mpilar/resume/issues>`_.
 
 .. note::
     This is a preliminary experiment of writing a resume with sphinx, as such
